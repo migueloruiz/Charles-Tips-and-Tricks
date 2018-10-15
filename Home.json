@@ -1,0 +1,3364 @@
+{
+	"service_status": {
+		"status": "ok"
+	},
+	"org_badge": false,
+	"categories": [{
+		"id": 242,
+		"shortname": "outdoors-adventure",
+		"name": "Outdoors & Adventure",
+		"sort_name": "Outdoors & Adventure",
+		"photo": {
+			"id": 450131943,
+			"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/7/highres_450131943.jpeg",
+			"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/7/600_450131943.jpeg",
+			"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/7/thumb_450131943.jpeg",
+			"type": "event",
+			"base_url": "https://secure.meetupstatic.com"
+		},
+		"category_ids": [3, 23]
+	}, {
+		"id": 292,
+		"shortname": "tech",
+		"name": "Tech",
+		"sort_name": "Tech",
+		"photo": {
+			"id": 450131949,
+			"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+			"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+			"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+			"type": "event",
+			"base_url": "https://secure.meetupstatic.com"
+		},
+		"category_ids": [34]
+	}, {
+		"id": 232,
+		"shortname": "parents-family",
+		"name": "Family",
+		"sort_name": "Family",
+		"photo": {
+			"id": 450131932,
+			"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/9/c/highres_450131932.jpeg",
+			"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/9/c/600_450131932.jpeg",
+			"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/9/c/thumb_450131932.jpeg",
+			"type": "event",
+			"base_url": "https://secure.meetupstatic.com"
+		},
+		"category_ids": [25]
+	}, {
+		"id": 302,
+		"shortname": "health-wellness",
+		"name": "Health & Wellness",
+		"sort_name": "Health & Wellness",
+		"photo": {
+			"id": 450131950,
+			"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/e/highres_450131950.jpeg",
+			"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/e/600_450131950.jpeg",
+			"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/e/thumb_450131950.jpeg",
+			"type": "event",
+			"base_url": "https://secure.meetupstatic.com"
+		},
+		"category_ids": [14, 33]
+	}, {
+		"id": 282,
+		"shortname": "sports-fitness",
+		"name": "Sports & Fitness",
+		"sort_name": "Sports & Fitness",
+		"photo": {
+			"id": 450131948,
+			"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/c/highres_450131948.jpeg",
+			"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/c/600_450131948.jpeg",
+			"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/c/thumb_450131948.jpeg",
+			"type": "event",
+			"base_url": "https://secure.meetupstatic.com"
+		},
+		"category_ids": [9, 32]
+	}, {
+		"id": 562,
+		"shortname": "education",
+		"name": "Learning",
+		"sort_name": "Learning",
+		"photo": {
+			"id": 450131931,
+			"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/9/b/highres_450131931.jpeg",
+			"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/9/b/600_450131931.jpeg",
+			"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/9/b/thumb_450131931.jpeg",
+			"type": "event",
+			"base_url": "https://secure.meetupstatic.com"
+		},
+		"category_ids": [6]
+	}, {
+		"id": 262,
+		"shortname": "photography",
+		"name": "Photography",
+		"sort_name": "Photography",
+		"photo": {
+			"id": 450131946,
+			"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/a/highres_450131946.jpeg",
+			"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/a/600_450131946.jpeg",
+			"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/a/thumb_450131946.jpeg",
+			"type": "event",
+			"base_url": "https://secure.meetupstatic.com"
+		},
+		"category_ids": [27]
+	}, {
+		"id": 162,
+		"shortname": "food",
+		"name": "Food & Drink",
+		"sort_name": "Food & Drink",
+		"photo": {
+			"id": 450131937,
+			"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/1/highres_450131937.jpeg",
+			"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/1/600_450131937.jpeg",
+			"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/1/thumb_450131937.jpeg",
+			"type": "event",
+			"base_url": "https://secure.meetupstatic.com"
+		},
+		"category_ids": [10]
+	}, {
+		"id": 582,
+		"shortname": "writing",
+		"name": "Writing",
+		"sort_name": "Writing",
+		"photo": {
+			"id": 450131951,
+			"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/f/highres_450131951.jpeg",
+			"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/f/600_450131951.jpeg",
+			"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/f/thumb_450131951.jpeg",
+			"type": "event",
+			"base_url": "https://secure.meetupstatic.com"
+		},
+		"category_ids": [36]
+	}, {
+		"id": 212,
+		"shortname": "language",
+		"name": "Language & Culture",
+		"sort_name": "Language & Culture",
+		"photo": {
+			"id": 450131939,
+			"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/highres_450131939.jpeg",
+			"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/600_450131939.jpeg",
+			"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/thumb_450131939.jpeg",
+			"type": "event",
+			"base_url": "https://secure.meetupstatic.com"
+		},
+		"category_ids": [16]
+	}, {
+		"id": 512,
+		"shortname": "music",
+		"name": "Music",
+		"sort_name": "Music",
+		"photo": {
+			"id": 450131942,
+			"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/6/highres_450131942.jpeg",
+			"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/6/600_450131942.jpeg",
+			"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/6/thumb_450131942.jpeg",
+			"type": "event",
+			"base_url": "https://secure.meetupstatic.com"
+		},
+		"category_ids": [21]
+	}, {
+		"id": 552,
+		"shortname": "movements",
+		"name": "Movements",
+		"sort_name": "Movements",
+		"photo": {
+			"id": 450131941,
+			"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/5/highres_450131941.jpeg",
+			"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/5/600_450131941.jpeg",
+			"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/5/thumb_450131941.jpeg",
+			"type": "event",
+			"base_url": "https://secure.meetupstatic.com"
+		},
+		"category_ids": [4, 13]
+	}, {
+		"id": 585,
+		"shortname": "lgbtq",
+		"name": "LGBTQ",
+		"sort_name": "LGBTQ",
+		"photo": {
+			"id": 450131940,
+			"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/4/highres_450131940.jpeg",
+			"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/4/600_450131940.jpeg",
+			"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/4/thumb_450131940.jpeg",
+			"type": "event",
+			"base_url": "https://secure.meetupstatic.com"
+		},
+		"category_ids": [12]
+	}, {
+		"id": 583,
+		"shortname": "film",
+		"name": "Film",
+		"sort_name": "Film",
+		"photo": {
+			"id": 450858495,
+			"highres_link": "https://secure.meetupstatic.com/photos/event/4/8/3/f/highres_450858495.jpeg",
+			"photo_link": "https://secure.meetupstatic.com/photos/event/4/8/3/f/600_450858495.jpeg",
+			"thumb_link": "https://secure.meetupstatic.com/photos/event/4/8/3/f/thumb_450858495.jpeg",
+			"type": "event",
+			"base_url": "https://secure.meetupstatic.com"
+		},
+		"category_ids": [20]
+	}, {
+		"id": 182,
+		"shortname": "games-sci-fi",
+		"name": "Sci-Fi & Games",
+		"sort_name": "Sci-Fi & Games",
+		"photo": {
+			"id": 450131938,
+			"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/2/highres_450131938.jpeg",
+			"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/2/600_450131938.jpeg",
+			"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/2/thumb_450131938.jpeg",
+			"type": "event",
+			"base_url": "https://secure.meetupstatic.com"
+		},
+		"category_ids": [11, 29]
+	}, {
+		"id": 132,
+		"shortname": "beliefs",
+		"name": "Beliefs",
+		"sort_name": "Beliefs",
+		"photo": {
+			"id": 450131925,
+			"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/9/5/highres_450131925.jpeg",
+			"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/9/5/600_450131925.jpeg",
+			"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/9/5/thumb_450131925.jpeg",
+			"type": "event",
+			"base_url": "https://secure.meetupstatic.com"
+		},
+		"category_ids": [22, 24, 28]
+	}, {
+		"id": 122,
+		"shortname": "arts-culture",
+		"name": "Arts",
+		"sort_name": "Arts",
+		"photo": {
+			"id": 450131912,
+			"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/8/8/highres_450131912.jpeg",
+			"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/8/8/600_450131912.jpeg",
+			"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/8/8/thumb_450131912.jpeg",
+			"type": "event",
+			"base_url": "https://secure.meetupstatic.com"
+		},
+		"category_ids": [1]
+	}, {
+		"id": 222,
+		"shortname": "book-clubs",
+		"name": "Book Clubs",
+		"sort_name": "Book Clubs",
+		"photo": {
+			"id": 450131926,
+			"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/9/6/highres_450131926.jpeg",
+			"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/9/6/600_450131926.jpeg",
+			"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/9/6/thumb_450131926.jpeg",
+			"type": "event",
+			"base_url": "https://secure.meetupstatic.com"
+		},
+		"category_ids": [18]
+	}, {
+		"id": 542,
+		"shortname": "dancing",
+		"name": "Dance",
+		"sort_name": "Dance",
+		"photo": {
+			"id": 450131930,
+			"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/9/a/highres_450131930.jpeg",
+			"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/9/a/600_450131930.jpeg",
+			"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/9/a/thumb_450131930.jpeg",
+			"type": "event",
+			"base_url": "https://secure.meetupstatic.com"
+		},
+		"category_ids": [5]
+	}, {
+		"id": 252,
+		"shortname": "pets",
+		"name": "Pets",
+		"sort_name": "Pets",
+		"photo": {
+			"id": 450131945,
+			"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/9/highres_450131945.jpeg",
+			"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/9/600_450131945.jpeg",
+			"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/9/thumb_450131945.jpeg",
+			"type": "event",
+			"base_url": "https://secure.meetupstatic.com"
+		},
+		"category_ids": [26]
+	}, {
+		"id": 532,
+		"shortname": "hobbies-crafts",
+		"name": "Hobbies & Crafts",
+		"sort_name": "Hobbies & Crafts",
+		"photo": {
+			"id": 450131929,
+			"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/9/9/highres_450131929.jpeg",
+			"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/9/9/600_450131929.jpeg",
+			"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/9/9/thumb_450131929.jpeg",
+			"type": "event",
+			"base_url": "https://secure.meetupstatic.com"
+		},
+		"category_ids": [15]
+	}, {
+		"id": 584,
+		"shortname": "fashion-beauty",
+		"name": "Fashion & Beauty",
+		"sort_name": "Fashion & Beauty",
+		"photo": {
+			"id": 450131934,
+			"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/9/e/highres_450131934.jpeg",
+			"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/9/e/600_450131934.jpeg",
+			"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/9/e/thumb_450131934.jpeg",
+			"type": "event",
+			"base_url": "https://secure.meetupstatic.com"
+		},
+		"category_ids": [8]
+	}, {
+		"id": 272,
+		"shortname": "social",
+		"name": "Social",
+		"sort_name": "Social",
+		"photo": {
+			"id": 450131947,
+			"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/b/highres_450131947.jpeg",
+			"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/b/600_450131947.jpeg",
+			"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/b/thumb_450131947.jpeg",
+			"type": "event",
+			"base_url": "https://secure.meetupstatic.com"
+		},
+		"category_ids": [31]
+	}, {
+		"id": 522,
+		"shortname": "career-business",
+		"name": "Career & Business",
+		"sort_name": "Career & Business",
+		"photo": {
+			"id": 450131927,
+			"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/highres_450131927.jpeg",
+			"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/600_450131927.jpeg",
+			"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/thumb_450131927.jpeg",
+			"type": "event",
+			"base_url": "https://secure.meetupstatic.com"
+		},
+		"category_ids": [2]
+	}],
+	"city": {
+		"id": 1027304,
+		"city": "Abasolo",
+		"lat": 20.45,
+		"lon": -101.52,
+		"state": "",
+		"country": "mx",
+		"zip": "meetup309",
+		"member_count": 108
+	},
+	"rows": [{
+		"type": "category",
+		"title": "Tech",
+		"items": [{
+			"type": "group",
+			"group": {
+				"score": 0.5333263874053955,
+				"id": 28135977,
+				"name": "GDG Guanajuato",
+				"status": "active",
+				"link": "https://www.meetup.com/GDGGuanajuato/",
+				"urlname": "GDGGuanajuato",
+				"created": 1523563451000,
+				"city": "Guanajuato",
+				"untranslated_city": "Guanajuato",
+				"country": "MX",
+				"localized_country_name": "Mexico",
+				"localized_location": "Guanajuato, Mexico",
+				"state": "",
+				"join_mode": "open",
+				"visibility": "public",
+				"lat": 21.02,
+				"lon": -101.28,
+				"members": 42,
+				"organizer": {
+					"id": 192254052,
+					"name": "Javier Ruiz Vázquez",
+					"bio": "Web Developer amante de Javascript, de Guanajuato, Mex., fascinado por las nueva tendencias tecnológicas, gusto por el desarrollo Cross Platform - Actualmente ayudando a personas a envolverse en el desarrollo web.",
+					"photo": {
+						"id": 267855894,
+						"highres_link": "https://secure.meetupstatic.com/photos/member/3/e/1/6/highres_267855894.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/member/3/e/1/6/member_267855894.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/member/3/e/1/6/thumb_267855894.jpeg",
+						"type": "member",
+						"base_url": "https://secure.meetupstatic.com"
+					}
+				},
+				"who": "Momias",
+				"group_photo": {
+					"id": 470144258,
+					"highres_link": "https://secure.meetupstatic.com/photos/event/a/c/e/2/highres_470144258.jpeg",
+					"photo_link": "https://secure.meetupstatic.com/photos/event/a/c/e/2/600_470144258.jpeg",
+					"thumb_link": "https://secure.meetupstatic.com/photos/event/a/c/e/2/thumb_470144258.jpeg",
+					"type": "event",
+					"base_url": "https://secure.meetupstatic.com"
+				},
+				"key_photo": {
+					"id": 470113039,
+					"highres_link": "https://secure.meetupstatic.com/photos/event/3/2/e/f/highres_470113039.jpeg",
+					"photo_link": "https://secure.meetupstatic.com/photos/event/3/2/e/f/600_470113039.jpeg",
+					"thumb_link": "https://secure.meetupstatic.com/photos/event/3/2/e/f/thumb_470113039.jpeg",
+					"type": "event",
+					"base_url": "https://secure.meetupstatic.com"
+				},
+				"photo_gradient": {
+					"id": 4,
+					"light_color": "00a8ff",
+					"dark_color": "fa002f",
+					"composite_color": "7D0018"
+				},
+				"timezone": "America/Mexico_City",
+				"next_event": {
+					"id": "255250714",
+					"name": "Primer Aniversario de la comunidad Women.inData",
+					"yes_rsvp_count": 5,
+					"time": 1540562400000,
+					"utc_offset": -18000000
+				},
+				"category": {
+					"id": 34,
+					"name": "Tech",
+					"shortname": "tech",
+					"sort_name": "Tech"
+				},
+				"self": {
+					"status": "none"
+				},
+				"short_link": "http://meetu.ps/c/3R5jt/tR3rl/a",
+				"join_info": {
+					"questions_req": false,
+					"photo_req": false
+				},
+				"meta_category": {
+					"id": 292,
+					"shortname": "tech",
+					"name": "Tech",
+					"sort_name": "Tech",
+					"photo": {
+						"id": 450131949,
+						"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+						"type": "event",
+						"base_url": "https://secure.meetupstatic.com"
+					},
+					"category_ids": [34]
+				}
+			}
+		}, {
+			"type": "group",
+			"group": {
+				"score": 0.39616212248802185,
+				"id": 29983878,
+				"name": "Meetup Blockchain San Miguel de Allende",
+				"status": "active",
+				"link": "https://www.meetup.com/Meetup-Blockchain-San-Miguel-de-Allende/",
+				"urlname": "Meetup-Blockchain-San-Miguel-de-Allende",
+				"created": 1538157304000,
+				"city": "San Miguel de Allende",
+				"untranslated_city": "San Miguel de Allende",
+				"country": "MX",
+				"localized_country_name": "Mexico",
+				"localized_location": "San Miguel de Allende, Mexico",
+				"state": "",
+				"join_mode": "open",
+				"visibility": "public",
+				"lat": 20.92,
+				"lon": -100.76,
+				"members": 14,
+				"organizer": {
+					"id": 260500265,
+					"name": "Carlos Vazquez",
+					"bio": "",
+					"photo": {
+						"id": 281148030,
+						"highres_link": "https://secure.meetupstatic.com/photos/member/b/b/9/e/highres_281148030.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/member/b/b/9/e/member_281148030.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/member/b/b/9/e/thumb_281148030.jpeg",
+						"type": "member",
+						"base_url": "https://secure.meetupstatic.com"
+					}
+				},
+				"who": "Miembros",
+				"photo_gradient": {
+					"id": 1,
+					"light_color": "ff7900",
+					"dark_color": "7700c8",
+					"composite_color": "3C0064"
+				},
+				"timezone": "America/Mexico_City",
+				"next_event": {
+					"id": "mmwbhqyxpbrb",
+					"name": "Reunion Blockchain San Miguel de Allende",
+					"yes_rsvp_count": 4,
+					"time": 1542153600000,
+					"utc_offset": -21600000
+				},
+				"category": {
+					"id": 34,
+					"name": "Tech",
+					"shortname": "tech",
+					"sort_name": "Tech"
+				},
+				"self": {
+					"status": "none"
+				},
+				"short_link": "http://meetu.ps/c/45dJ2/tR3rl/a",
+				"join_info": {
+					"questions_req": false,
+					"photo_req": false
+				},
+				"meta_category": {
+					"id": 292,
+					"shortname": "tech",
+					"name": "Tech",
+					"sort_name": "Tech",
+					"photo": {
+						"id": 450131949,
+						"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+						"type": "event",
+						"base_url": "https://secure.meetupstatic.com"
+					},
+					"category_ids": [34]
+				}
+			}
+		}, {
+			"type": "seed",
+			"seed": {
+				"topic": {
+					"id": 682,
+					"name": "Robotics",
+					"urlkey": "robotics",
+					"lang": "en_US"
+				},
+				"local_members_interested": 272,
+				"global_members_interested": 1317236,
+				"global_group_count": 2488,
+				"member_has_topic": true,
+				"suggested_name": "Abasolo Robotics Meetup",
+				"suggested_name_is_unique": true,
+				"related_topics": [{
+					"id": 7848,
+					"name": "Electronics",
+					"urlkey": "electronics",
+					"lang": "en_US"
+				}, {
+					"id": 39012,
+					"name": "Arduino",
+					"urlkey": "arduino",
+					"lang": "en_US"
+				}, {
+					"id": 101438,
+					"name": "Makerspaces",
+					"urlkey": "makerspaces",
+					"lang": "en_US"
+				}, {
+					"id": 43887,
+					"name": "Makers",
+					"urlkey": "makers",
+					"lang": "en_US"
+				}, {
+					"id": 114528,
+					"name": "3D Printing",
+					"urlkey": "3d-printing",
+					"lang": "en_US"
+				}, {
+					"id": 10438,
+					"name": "DIY (Do It Yourself)",
+					"urlkey": "diy",
+					"lang": "en_US"
+				}, {
+					"id": 9903,
+					"name": "Microcontrollers",
+					"urlkey": "microcontroller",
+					"lang": "en_US"
+				}, {
+					"id": 21123,
+					"name": "Hacking",
+					"urlkey": "hacking",
+					"lang": "en_US"
+				}, {
+					"id": 9696,
+					"name": "New Technology",
+					"urlkey": "newtech",
+					"lang": "en_US"
+				}, {
+					"id": 48471,
+					"name": "Computer programming",
+					"urlkey": "computer-programming",
+					"lang": "en_US"
+				}]
+			}
+		}, {
+			"type": "group",
+			"group": {
+				"score": 0.29547131061553955,
+				"id": 18713790,
+				"name": "Celaya Mobile .NET Developers Group",
+				"status": "active",
+				"link": "https://www.meetup.com/CelayaMobileDevelopers/",
+				"urlname": "CelayaMobileDevelopers",
+				"created": 1435826459000,
+				"city": "Celaya",
+				"untranslated_city": "Celaya",
+				"country": "MX",
+				"localized_country_name": "Mexico",
+				"localized_location": "Celaya, Mexico",
+				"state": "",
+				"join_mode": "open",
+				"visibility": "public",
+				"lat": 20.52,
+				"lon": -100.82,
+				"members": 359,
+				"organizer": {
+					"id": 189381059,
+					"name": "Luis Beltran",
+					"bio": "",
+					"photo": {
+						"id": 258249641,
+						"highres_link": "https://secure.meetupstatic.com/photos/member/2/5/a/9/highres_258249641.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/member/2/5/a/9/member_258249641.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/member/2/5/a/9/thumb_258249641.jpeg",
+						"type": "member",
+						"base_url": "https://secure.meetupstatic.com"
+					}
+				},
+				"who": "Developers",
+				"key_photo": {
+					"id": 456735971,
+					"highres_link": "https://secure.meetupstatic.com/photos/event/3/e/6/3/highres_456735971.jpeg",
+					"photo_link": "https://secure.meetupstatic.com/photos/event/3/e/6/3/600_456735971.jpeg",
+					"thumb_link": "https://secure.meetupstatic.com/photos/event/3/e/6/3/thumb_456735971.jpeg",
+					"type": "event",
+					"base_url": "https://secure.meetupstatic.com"
+				},
+				"photo_gradient": {
+					"id": 4,
+					"light_color": "00a8ff",
+					"dark_color": "fa002f",
+					"composite_color": "7D0018"
+				},
+				"timezone": "America/Mexico_City",
+				"next_event": {
+					"id": "255374408",
+					"name": "Azure DevOps Launch Event in Celaya",
+					"yes_rsvp_count": 4,
+					"time": 1552143600000,
+					"utc_offset": -21600000
+				},
+				"category": {
+					"id": 34,
+					"name": "Tech",
+					"shortname": "tech",
+					"sort_name": "Tech"
+				},
+				"self": {
+					"status": "none"
+				},
+				"short_link": "http://meetu.ps/c/2y4Mz/tR3rl/a",
+				"join_info": {
+					"questions_req": false,
+					"photo_req": false
+				},
+				"meta_category": {
+					"id": 292,
+					"shortname": "tech",
+					"name": "Tech",
+					"sort_name": "Tech",
+					"photo": {
+						"id": 450131949,
+						"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+						"type": "event",
+						"base_url": "https://secure.meetupstatic.com"
+					},
+					"category_ids": [34]
+				}
+			}
+		}, {
+			"type": "group",
+			"group": {
+				"score": 0.2593880891799927,
+				"id": 29398450,
+				"name": "León Linux Meetup",
+				"status": "active",
+				"link": "https://www.meetup.com/Leon-Linux-Meetup/",
+				"urlname": "Leon-Linux-Meetup",
+				"created": 1532993371000,
+				"city": "León",
+				"untranslated_city": "León",
+				"country": "MX",
+				"localized_country_name": "Mexico",
+				"localized_location": "León, Mexico",
+				"state": "",
+				"join_mode": "open",
+				"visibility": "public",
+				"lat": 21.12,
+				"lon": -101.69,
+				"members": 29,
+				"organizer": {
+					"id": 227446916,
+					"name": "Héctor López",
+					"bio": "",
+					"photo": {
+						"id": 266860690,
+						"highres_link": "https://secure.meetupstatic.com/photos/member/9/e/f/2/highres_266860690.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/member/9/e/f/2/member_266860690.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/member/9/e/f/2/thumb_266860690.jpeg",
+						"type": "member",
+						"base_url": "https://secure.meetupstatic.com"
+					}
+				},
+				"who": "Members",
+				"key_photo": {
+					"id": 473361417,
+					"highres_link": "https://secure.meetupstatic.com/photos/event/5/3/a/9/highres_473361417.jpeg",
+					"photo_link": "https://secure.meetupstatic.com/photos/event/5/3/a/9/600_473361417.jpeg",
+					"thumb_link": "https://secure.meetupstatic.com/photos/event/5/3/a/9/thumb_473361417.jpeg",
+					"type": "event",
+					"base_url": "https://secure.meetupstatic.com"
+				},
+				"photo_gradient": {
+					"id": 4,
+					"light_color": "00a8ff",
+					"dark_color": "fa002f",
+					"composite_color": "7D0018"
+				},
+				"timezone": "America/Mexico_City",
+				"next_event": {
+					"id": "tmcrbqyxnbnb",
+					"name": "León Festival de Instalación del sistema GNU/Linux cualquier distribución.",
+					"yes_rsvp_count": 1,
+					"time": 1539216000000,
+					"utc_offset": -18000000
+				},
+				"category": {
+					"id": 34,
+					"name": "Tech",
+					"shortname": "tech",
+					"sort_name": "Tech"
+				},
+				"self": {
+					"status": "none"
+				},
+				"short_link": "http://meetu.ps/c/414bP/tR3rl/a",
+				"join_info": {
+					"questions_req": false,
+					"photo_req": false
+				},
+				"meta_category": {
+					"id": 292,
+					"shortname": "tech",
+					"name": "Tech",
+					"sort_name": "Tech",
+					"photo": {
+						"id": 450131949,
+						"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+						"type": "event",
+						"base_url": "https://secure.meetupstatic.com"
+					},
+					"category_ids": [34]
+				}
+			}
+		}, {
+			"type": "group",
+			"group": {
+				"score": 0.08703392744064331,
+				"id": 29268043,
+				"name": "7D LAB - León",
+				"status": "active",
+				"link": "https://www.meetup.com/7D-LAB/",
+				"urlname": "7D-LAB",
+				"created": 1531757729000,
+				"city": "León",
+				"untranslated_city": "León",
+				"country": "MX",
+				"localized_country_name": "Mexico",
+				"localized_location": "León, Mexico",
+				"state": "",
+				"join_mode": "approval",
+				"visibility": "public",
+				"lat": 21.12,
+				"lon": -101.69,
+				"members": 12,
+				"organizer": {
+					"id": 259008566,
+					"name": "Carlos Cabrera",
+					"bio": "",
+					"photo": {
+						"id": 278926450,
+						"highres_link": "https://secure.meetupstatic.com/photos/member/b/5/7/2/highres_278926450.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/member/b/5/7/2/member_278926450.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/member/b/5/7/2/thumb_278926450.jpeg",
+						"type": "member",
+						"base_url": "https://secure.meetupstatic.com"
+					}
+				},
+				"who": "7D LAB'ers",
+				"key_photo": {
+					"id": 473036611,
+					"highres_link": "https://secure.meetupstatic.com/photos/event/d/d/2/3/highres_473036611.jpeg",
+					"photo_link": "https://secure.meetupstatic.com/photos/event/d/d/2/3/600_473036611.jpeg",
+					"thumb_link": "https://secure.meetupstatic.com/photos/event/d/d/2/3/thumb_473036611.jpeg",
+					"type": "event",
+					"base_url": "https://secure.meetupstatic.com"
+				},
+				"photo_gradient": {
+					"id": 2,
+					"light_color": "48ffcb",
+					"dark_color": "8a00eb",
+					"composite_color": "450076"
+				},
+				"timezone": "America/Mexico_City",
+				"next_event": {
+					"id": "254006318",
+					"name": "BIM BOP Reloaded",
+					"yes_rsvp_count": 1,
+					"time": 1540465200000,
+					"utc_offset": -18000000
+				},
+				"category": {
+					"id": 34,
+					"name": "Tech",
+					"shortname": "tech",
+					"sort_name": "Tech"
+				},
+				"self": {
+					"status": "none"
+				},
+				"short_link": "http://meetu.ps/c/407YZ/tR3rl/a",
+				"join_info": {
+					"questions_req": true,
+					"photo_req": false,
+					"questions": [{
+						"id": 8725388,
+						"question": "Revit or Archicad?"
+					}, {
+						"id": 8725387,
+						"question": "Dynamo or Grasshopper?"
+					}, {
+						"id": 8725640,
+						"question": "Que día y en que hora te gustaría reunirte? Jueves 6-8 pm o Sábado 10am-12pm?"
+					}]
+				},
+				"meta_category": {
+					"id": 292,
+					"shortname": "tech",
+					"name": "Tech",
+					"sort_name": "Tech",
+					"photo": {
+						"id": 450131949,
+						"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+						"type": "event",
+						"base_url": "https://secure.meetupstatic.com"
+					},
+					"category_ids": [34]
+				}
+			}
+		}, {
+			"type": "group",
+			"group": {
+				"score": 0.8876946568489075,
+				"id": 18242598,
+				"name": "Tepache Hacklab",
+				"status": "active",
+				"link": "https://www.meetup.com/tepache-hacklab/",
+				"urlname": "tepache-hacklab",
+				"created": 1418136957000,
+				"city": "León",
+				"untranslated_city": "León",
+				"country": "MX",
+				"localized_country_name": "Mexico",
+				"localized_location": "León, Mexico",
+				"state": "",
+				"join_mode": "open",
+				"visibility": "public",
+				"lat": 21.12,
+				"lon": -101.69,
+				"members": 495,
+				"organizer": {
+					"id": 153491782,
+					"name": "Edgar Hamurabi Delgado",
+					"bio": "Desarrollador de Web Apps, creyente de la filosofía Hacker y colaboración. Fundador de la comunidad Tepache Hacklab. Amante de la tecnología e innovación.",
+					"photo": {
+						"id": 254129294,
+						"highres_link": "https://secure.meetupstatic.com/photos/member/7/2/6/e/highres_254129294.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/member/7/2/6/e/member_254129294.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/member/7/2/6/e/thumb_254129294.jpeg",
+						"type": "member",
+						"base_url": "https://secure.meetupstatic.com"
+					}
+				},
+				"who": "Tepacheros",
+				"group_photo": {
+					"id": 448383604,
+					"highres_link": "https://secure.meetupstatic.com/photos/event/e/1/4/highres_448383604.jpeg",
+					"photo_link": "https://secure.meetupstatic.com/photos/event/e/1/4/600_448383604.jpeg",
+					"thumb_link": "https://secure.meetupstatic.com/photos/event/e/1/4/thumb_448383604.jpeg",
+					"type": "event",
+					"base_url": "https://secure.meetupstatic.com"
+				},
+				"key_photo": {
+					"id": 470951197,
+					"highres_link": "https://secure.meetupstatic.com/photos/event/2/b/b/d/highres_470951197.jpeg",
+					"photo_link": "https://secure.meetupstatic.com/photos/event/2/b/b/d/600_470951197.jpeg",
+					"thumb_link": "https://secure.meetupstatic.com/photos/event/2/b/b/d/thumb_470951197.jpeg",
+					"type": "event",
+					"base_url": "https://secure.meetupstatic.com"
+				},
+				"photo_gradient": {
+					"id": 6,
+					"light_color": "ffae00",
+					"dark_color": "ff005a",
+					"composite_color": "431A2D"
+				},
+				"timezone": "America/Mexico_City",
+				"next_event": {
+					"id": "ndtnfpyxnbkc",
+					"name": "Dev Nights es un evento gratuito para compartir y aprender sobre tecnología.",
+					"yes_rsvp_count": 3,
+					"time": 1540688400000,
+					"utc_offset": -18000000
+				},
+				"category": {
+					"id": 34,
+					"name": "Tech",
+					"shortname": "tech",
+					"sort_name": "Tech"
+				},
+				"self": {
+					"status": "none"
+				},
+				"short_link": "http://meetu.ps/c/2tKwb/tR3rl/a",
+				"join_info": {
+					"questions_req": false,
+					"photo_req": false
+				},
+				"meta_category": {
+					"id": 292,
+					"shortname": "tech",
+					"name": "Tech",
+					"sort_name": "Tech",
+					"photo": {
+						"id": 450131949,
+						"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+						"type": "event",
+						"base_url": "https://secure.meetupstatic.com"
+					},
+					"category_ids": [34]
+				}
+			}
+		}, {
+			"type": "group",
+			"group": {
+				"score": 0.4934001564979553,
+				"id": 28366118,
+				"name": "GDG León",
+				"status": "active",
+				"link": "https://www.meetup.com/GDGLeon/",
+				"urlname": "GDGLeon",
+				"created": 1525308707000,
+				"city": "León",
+				"untranslated_city": "León",
+				"country": "MX",
+				"localized_country_name": "Mexico",
+				"localized_location": "León, Mexico",
+				"state": "",
+				"join_mode": "open",
+				"visibility": "public",
+				"lat": 21.12,
+				"lon": -101.69,
+				"members": 73,
+				"organizer": {
+					"id": 187100039,
+					"name": "Fernanda Ochoa",
+					"bio": "",
+					"photo": {
+						"id": 246009963,
+						"highres_link": "https://secure.meetupstatic.com/photos/member/2/6/e/b/highres_246009963.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/member/2/6/e/b/member_246009963.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/member/2/6/e/b/thumb_246009963.jpeg",
+						"type": "member",
+						"base_url": "https://secure.meetupstatic.com"
+					}
+				},
+				"who": "Miembros",
+				"key_photo": {
+					"id": 470749058,
+					"highres_link": "https://secure.meetupstatic.com/photos/event/b/f/a/2/highres_470749058.jpeg",
+					"photo_link": "https://secure.meetupstatic.com/photos/event/b/f/a/2/600_470749058.jpeg",
+					"thumb_link": "https://secure.meetupstatic.com/photos/event/b/f/a/2/thumb_470749058.jpeg",
+					"type": "event",
+					"base_url": "https://secure.meetupstatic.com"
+				},
+				"photo_gradient": {
+					"id": 4,
+					"light_color": "00a8ff",
+					"dark_color": "fa002f",
+					"composite_color": "7D0018"
+				},
+				"timezone": "America/Mexico_City",
+				"category": {
+					"id": 34,
+					"name": "Tech",
+					"shortname": "tech",
+					"sort_name": "Tech"
+				},
+				"self": {
+					"status": "none"
+				},
+				"short_link": "http://meetu.ps/c/3SKqg/tR3rl/a",
+				"join_info": {
+					"questions_req": false,
+					"photo_req": false
+				},
+				"meta_category": {
+					"id": 292,
+					"shortname": "tech",
+					"name": "Tech",
+					"sort_name": "Tech",
+					"photo": {
+						"id": 450131949,
+						"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+						"type": "event",
+						"base_url": "https://secure.meetupstatic.com"
+					},
+					"category_ids": [34]
+				}
+			}
+		}, {
+			"type": "group",
+			"group": {
+				"score": 0.21208539605140686,
+				"id": 20128321,
+				"name": "Meetup de Propietarios de negocios en internet en León",
+				"status": "active",
+				"link": "https://www.meetup.com/Meetup-de-Propietarios-de-negocios-en-internet-en-Leon/",
+				"urlname": "Meetup-de-Propietarios-de-negocios-en-internet-en-Leon",
+				"created": 1467216212000,
+				"city": "León",
+				"untranslated_city": "León",
+				"country": "MX",
+				"localized_country_name": "Mexico",
+				"localized_location": "León, Mexico",
+				"state": "",
+				"join_mode": "open",
+				"visibility": "public",
+				"lat": 21.12,
+				"lon": -101.69,
+				"members": 49,
+				"organizer": {
+					"id": 161787022,
+					"name": "Cesar ",
+					"bio": "I'm an entrepreneur, coffeeholic that likes travel, design, mexican meal, arts, tango, latins rhythms, poetry, tech, holistic world And freedom to be.",
+					"photo": {
+						"id": 226451542,
+						"highres_link": "https://secure.meetupstatic.com/photos/member/2/d/1/6/highres_226451542.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/member/2/d/1/6/member_226451542.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/member/2/d/1/6/thumb_226451542.jpeg",
+						"type": "member",
+						"base_url": "https://secure.meetupstatic.com"
+					}
+				},
+				"who": "Miembros",
+				"photo_gradient": {
+					"id": 5,
+					"light_color": "36c200",
+					"dark_color": "002fff",
+					"composite_color": "083280"
+				},
+				"timezone": "America/Mexico_City",
+				"category": {
+					"id": 34,
+					"name": "Tech",
+					"shortname": "tech",
+					"sort_name": "Tech"
+				},
+				"self": {
+					"status": "none"
+				},
+				"short_link": "http://meetu.ps/c/2L7V5/tR3rl/a",
+				"join_info": {
+					"questions_req": false,
+					"photo_req": true
+				},
+				"meta_category": {
+					"id": 292,
+					"shortname": "tech",
+					"name": "Tech",
+					"sort_name": "Tech",
+					"photo": {
+						"id": 450131949,
+						"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+						"type": "event",
+						"base_url": "https://secure.meetupstatic.com"
+					},
+					"category_ids": [34]
+				}
+			}
+		}, {
+			"type": "group",
+			"group": {
+				"score": 0.0010000000474974513,
+				"id": 21541074,
+				"name": "León .Net Developers Group",
+				"status": "active",
+				"link": "https://www.meetup.com/Leon-NET-Developers-Group/",
+				"urlname": "Leon-NET-Developers-Group",
+				"created": 1481398234000,
+				"city": "León",
+				"untranslated_city": "León",
+				"country": "MX",
+				"localized_country_name": "Mexico",
+				"localized_location": "León, Mexico",
+				"state": "",
+				"join_mode": "open",
+				"visibility": "public",
+				"lat": 21.12,
+				"lon": -101.69,
+				"members": 50,
+				"organizer": {
+					"id": 178041712,
+					"name": "Gozhack",
+					"bio": "",
+					"photo": {
+						"id": 242181510,
+						"highres_link": "https://secure.meetupstatic.com/photos/member/5/4/0/6/highres_242181510.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/member/5/4/0/6/member_242181510.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/member/5/4/0/6/thumb_242181510.jpeg",
+						"type": "member",
+						"base_url": "https://secure.meetupstatic.com"
+					}
+				},
+				"who": "Members",
+				"photo_gradient": {
+					"id": 3,
+					"light_color": "ffc600",
+					"dark_color": "2737ff",
+					"composite_color": "141C80"
+				},
+				"timezone": "America/Mexico_City",
+				"category": {
+					"id": 34,
+					"name": "Tech",
+					"shortname": "tech",
+					"sort_name": "Tech"
+				},
+				"self": {
+					"status": "none"
+				},
+				"short_link": "http://meetu.ps/c/2Xbmq/tR3rl/a",
+				"join_info": {
+					"questions_req": false,
+					"photo_req": false
+				},
+				"meta_category": {
+					"id": 292,
+					"shortname": "tech",
+					"name": "Tech",
+					"sort_name": "Tech",
+					"photo": {
+						"id": 450131949,
+						"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+						"type": "event",
+						"base_url": "https://secure.meetupstatic.com"
+					},
+					"category_ids": [34]
+				}
+			}
+		}],
+		"category": {
+			"id": 292,
+			"shortname": "tech",
+			"name": "Tech",
+			"sort_name": "Tech",
+			"photo": {
+				"id": 450131949,
+				"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+				"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+				"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+				"type": "event",
+				"base_url": "https://secure.meetupstatic.com"
+			},
+			"category_ids": [34]
+		}
+	}, {
+		"type": "category",
+		"title": "Language & Culture",
+		"items": [{
+			"type": "group",
+			"group": {
+				"score": 0.10386889427900314,
+				"id": 30177795,
+				"name": "Say What?! Celaya English Conversation Meetup",
+				"status": "active",
+				"link": "https://www.meetup.com/Say-What-Celaya-English-Conversation-Meetup/",
+				"urlname": "Say-What-Celaya-English-Conversation-Meetup",
+				"created": 1539134876000,
+				"city": "Celaya",
+				"untranslated_city": "Celaya",
+				"country": "MX",
+				"localized_country_name": "Mexico",
+				"localized_location": "Celaya, Mexico",
+				"state": "",
+				"join_mode": "open",
+				"visibility": "public",
+				"lat": 20.52,
+				"lon": -100.82,
+				"members": 6,
+				"organizer": {
+					"id": 202116834,
+					"name": "Cara Schroeder",
+					"bio": "",
+					"photo": {
+						"id": 281403228,
+						"highres_link": "https://secure.meetupstatic.com/photos/member/c/9/c/highres_281403228.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/member/c/9/c/member_281403228.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/member/c/9/c/thumb_281403228.jpeg",
+						"type": "member",
+						"base_url": "https://secure.meetupstatic.com"
+					}
+				},
+				"who": "Members",
+				"photo_gradient": {
+					"id": 5,
+					"light_color": "36c200",
+					"dark_color": "002fff",
+					"composite_color": "083280"
+				},
+				"timezone": "America/Mexico_City",
+				"next_event": {
+					"id": "jgxkjqyxnbwb",
+					"name": "Say What?! Celaya English Conversation Meetup",
+					"yes_rsvp_count": 5,
+					"time": 1539817200000,
+					"utc_offset": -18000000
+				},
+				"category": {
+					"id": 16,
+					"name": "Language & Ethnic Identity",
+					"shortname": "language",
+					"sort_name": "Language & Ethnic Identity"
+				},
+				"self": {
+					"status": "none"
+				},
+				"short_link": "http://meetu.ps/c/46Cqc/tR3rl/a",
+				"join_info": {
+					"questions_req": false,
+					"photo_req": false
+				},
+				"meta_category": {
+					"id": 212,
+					"shortname": "language",
+					"name": "Language & Culture",
+					"sort_name": "Language & Culture",
+					"photo": {
+						"id": 450131939,
+						"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/highres_450131939.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/600_450131939.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/thumb_450131939.jpeg",
+						"type": "event",
+						"base_url": "https://secure.meetupstatic.com"
+					},
+					"category_ids": [16]
+				}
+			}
+		}, {
+			"type": "group",
+			"group": {
+				"score": 0.10281537473201752,
+				"id": 26896390,
+				"name": "Multicultural Conversation Exchange GTO",
+				"status": "active",
+				"link": "https://www.meetup.com/Guanajuato-English-as-a-Second-Language-Meetup/",
+				"urlname": "Guanajuato-English-as-a-Second-Language-Meetup",
+				"created": 1513542380000,
+				"city": "Guanajuato",
+				"untranslated_city": "Guanajuato",
+				"country": "MX",
+				"localized_country_name": "Mexico",
+				"localized_location": "Guanajuato, Mexico",
+				"state": "",
+				"join_mode": "open",
+				"visibility": "public",
+				"lat": 21.02,
+				"lon": -101.28,
+				"members": 50,
+				"organizer": {
+					"id": 224244407,
+					"name": "richard eidenschink",
+					"bio": "",
+					"photo": {
+						"id": 270577643,
+						"highres_link": "https://secure.meetupstatic.com/photos/member/9/3/0/b/highres_270577643.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/member/9/3/0/b/member_270577643.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/member/9/3/0/b/thumb_270577643.jpeg",
+						"type": "member",
+						"base_url": "https://secure.meetupstatic.com"
+					}
+				},
+				"who": "Members",
+				"key_photo": {
+					"id": 466966681,
+					"highres_link": "https://secure.meetupstatic.com/photos/event/b/6/5/9/highres_466966681.jpeg",
+					"photo_link": "https://secure.meetupstatic.com/photos/event/b/6/5/9/600_466966681.jpeg",
+					"thumb_link": "https://secure.meetupstatic.com/photos/event/b/6/5/9/thumb_466966681.jpeg",
+					"type": "event",
+					"base_url": "https://secure.meetupstatic.com"
+				},
+				"photo_gradient": {
+					"id": 5,
+					"light_color": "36c200",
+					"dark_color": "002fff",
+					"composite_color": "083280"
+				},
+				"timezone": "America/Mexico_City",
+				"next_event": {
+					"id": "wjprcpyxnbpb",
+					"name": "Conversación Multicultural/Multicultural Conversation GTO",
+					"yes_rsvp_count": 1,
+					"time": 1539298800000,
+					"utc_offset": -18000000
+				},
+				"category": {
+					"id": 16,
+					"name": "Language & Ethnic Identity",
+					"shortname": "language",
+					"sort_name": "Language & Ethnic Identity"
+				},
+				"self": {
+					"status": "none"
+				},
+				"short_link": "http://meetu.ps/c/3GgTg/tR3rl/a",
+				"join_info": {
+					"questions_req": false,
+					"photo_req": false
+				},
+				"meta_category": {
+					"id": 212,
+					"shortname": "language",
+					"name": "Language & Culture",
+					"sort_name": "Language & Culture",
+					"photo": {
+						"id": 450131939,
+						"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/highres_450131939.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/600_450131939.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/thumb_450131939.jpeg",
+						"type": "event",
+						"base_url": "https://secure.meetupstatic.com"
+					},
+					"category_ids": [16]
+				}
+			}
+		}, {
+			"type": "group",
+			"group": {
+				"score": 0.9231200814247131,
+				"id": 29426485,
+				"name": "Guanajuato Expat/Traveler Meetup",
+				"status": "active",
+				"link": "https://www.meetup.com/Guanajuato-Expat-Meetup/",
+				"urlname": "Guanajuato-Expat-Meetup",
+				"created": 1533252788000,
+				"city": "Guanajuato",
+				"untranslated_city": "Guanajuato",
+				"country": "MX",
+				"localized_country_name": "Mexico",
+				"localized_location": "Guanajuato, Mexico",
+				"state": "",
+				"join_mode": "open",
+				"visibility": "public",
+				"lat": 21.02,
+				"lon": -101.28,
+				"members": 70,
+				"organizer": {
+					"id": 189668804,
+					"name": "Killian Piraro",
+					"bio": "I'm an editor/web designer who dreamed of living abroad or traveling long-term my entire adult life. In July 2018, I finally made it happen! My husband Don and I will be in Guanajuato, MX, at least until Jan 2019, then we'll see what happens!",
+					"photo": {
+						"id": 279489418,
+						"highres_link": "https://secure.meetupstatic.com/photos/member/2/4/c/a/highres_279489418.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/member/2/4/c/a/member_279489418.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/member/2/4/c/a/thumb_279489418.jpeg",
+						"type": "member",
+						"base_url": "https://secure.meetupstatic.com"
+					}
+				},
+				"who": "Members",
+				"key_photo": {
+					"id": 473433244,
+					"highres_link": "https://secure.meetupstatic.com/photos/event/8/1/d/c/highres_473433244.jpeg",
+					"photo_link": "https://secure.meetupstatic.com/photos/event/8/1/d/c/600_473433244.jpeg",
+					"thumb_link": "https://secure.meetupstatic.com/photos/event/8/1/d/c/thumb_473433244.jpeg",
+					"type": "event",
+					"base_url": "https://secure.meetupstatic.com"
+				},
+				"photo_gradient": {
+					"id": 5,
+					"light_color": "36c200",
+					"dark_color": "002fff",
+					"composite_color": "083280"
+				},
+				"timezone": "America/Mexico_City",
+				"category": {
+					"id": 16,
+					"name": "Language & Ethnic Identity",
+					"shortname": "language",
+					"sort_name": "Language & Ethnic Identity"
+				},
+				"self": {
+					"status": "none"
+				},
+				"short_link": "http://meetu.ps/c/41gyX/tR3rl/a",
+				"join_info": {
+					"questions_req": false,
+					"photo_req": false
+				},
+				"meta_category": {
+					"id": 212,
+					"shortname": "language",
+					"name": "Language & Culture",
+					"sort_name": "Language & Culture",
+					"photo": {
+						"id": 450131939,
+						"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/highres_450131939.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/600_450131939.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/thumb_450131939.jpeg",
+						"type": "event",
+						"base_url": "https://secure.meetupstatic.com"
+					},
+					"category_ids": [16]
+				}
+			}
+		}, {
+			"type": "seed",
+			"seed": {
+				"topic": {
+					"id": 50881,
+					"name": "International Friends",
+					"urlkey": "international-friends",
+					"lang": "en_US"
+				},
+				"local_members_interested": 454,
+				"global_members_interested": 4247285,
+				"global_group_count": 4507,
+				"member_has_topic": false,
+				"suggested_name": "Abasolo International Friends Meetup",
+				"suggested_name_is_unique": true,
+				"related_topics": [{
+					"id": 67622,
+					"name": "Culture Exchange",
+					"urlkey": "culture-exchange",
+					"lang": "en_US"
+				}, {
+					"id": 10454,
+					"name": "Language & Culture",
+					"urlkey": "language",
+					"lang": "en_US"
+				}, {
+					"id": 26212,
+					"name": "Language Exchange",
+					"urlkey": "language-exchange",
+					"lang": "en_US"
+				}, {
+					"id": 1273,
+					"name": "New In Town",
+					"urlkey": "newintown",
+					"lang": "en_US"
+				}, {
+					"id": 4446,
+					"name": "Expat",
+					"urlkey": "expat",
+					"lang": "en_US"
+				}, {
+					"id": 4422,
+					"name": "Social Networking",
+					"urlkey": "socialnetwork",
+					"lang": "en_US"
+				}, {
+					"id": 3451,
+					"name": "International and Exchange Students",
+					"urlkey": "exchangestud",
+					"lang": "en_US"
+				}, {
+					"id": 16179,
+					"name": "International Travel",
+					"urlkey": "international-travel",
+					"lang": "en_US"
+				}, {
+					"id": 25698,
+					"name": "English Language",
+					"urlkey": "english-language",
+					"lang": "en_US"
+				}]
+			}
+		}, {
+			"type": "group",
+			"group": {
+				"score": 0.0010000000474974513,
+				"id": 18607882,
+				"name": "Guanajuato Language & Culture Meetup",
+				"status": "active",
+				"link": "https://www.meetup.com/Guanajuato-Language-Culture-Meetup/",
+				"urlname": "Guanajuato-Language-Culture-Meetup",
+				"created": 1431998202000,
+				"city": "Celaya",
+				"untranslated_city": "Celaya",
+				"country": "MX",
+				"localized_country_name": "Mexico",
+				"localized_location": "Celaya, Mexico",
+				"state": "",
+				"join_mode": "open",
+				"visibility": "public",
+				"lat": 20.52,
+				"lon": -100.82,
+				"members": 448,
+				"organizer": {
+					"id": 12086118,
+					"name": "Carlos Medina",
+					"bio": "",
+					"photo": {
+						"id": 105704482,
+						"photo_link": "https://secure.meetupstatic.com/photos/member/a/d/c/2/member_105704482.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/member/a/d/c/2/thumb_105704482.jpeg",
+						"type": "member",
+						"base_url": "https://secure.meetupstatic.com"
+					}
+				},
+				"who": "language exchangers",
+				"photo_gradient": {
+					"id": 3,
+					"light_color": "ffc600",
+					"dark_color": "2737ff",
+					"composite_color": "141C80"
+				},
+				"timezone": "America/Mexico_City",
+				"category": {
+					"id": 16,
+					"name": "Language & Ethnic Identity",
+					"shortname": "language",
+					"sort_name": "Language & Ethnic Identity"
+				},
+				"self": {
+					"status": "none"
+				},
+				"short_link": "http://meetu.ps/c/2xkBT/tR3rl/a",
+				"join_info": {
+					"questions_req": false,
+					"photo_req": false
+				},
+				"meta_category": {
+					"id": 212,
+					"shortname": "language",
+					"name": "Language & Culture",
+					"sort_name": "Language & Culture",
+					"photo": {
+						"id": 450131939,
+						"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/highres_450131939.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/600_450131939.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/thumb_450131939.jpeg",
+						"type": "event",
+						"base_url": "https://secure.meetupstatic.com"
+					},
+					"category_ids": [16]
+				}
+			}
+		}, {
+			"type": "group",
+			"group": {
+				"score": 0.0010000000474974513,
+				"id": 22076557,
+				"name": "Embajadoras Press and La Presa Journal",
+				"status": "active",
+				"link": "https://www.meetup.com/Embajadoras-Press-and-La-Presa-Journal/",
+				"urlname": "Embajadoras-Press-and-La-Presa-Journal",
+				"created": 1485355261000,
+				"city": "Guanajuato",
+				"untranslated_city": "Guanajuato",
+				"country": "MX",
+				"localized_country_name": "Mexico",
+				"localized_location": "Guanajuato, Mexico",
+				"state": "",
+				"join_mode": "open",
+				"visibility": "public",
+				"lat": 21.02,
+				"lon": -101.28,
+				"members": 50,
+				"organizer": {
+					"id": 220684936,
+					"name": "Ken MacDonald",
+					"bio": ""
+				},
+				"who": "Members",
+				"key_photo": {
+					"id": 457799649,
+					"highres_link": "https://secure.meetupstatic.com/photos/event/e/9/0/1/highres_457799649.jpeg",
+					"photo_link": "https://secure.meetupstatic.com/photos/event/e/9/0/1/600_457799649.jpeg",
+					"thumb_link": "https://secure.meetupstatic.com/photos/event/e/9/0/1/thumb_457799649.jpeg",
+					"type": "event",
+					"base_url": "https://secure.meetupstatic.com"
+				},
+				"photo_gradient": {
+					"id": 6,
+					"light_color": "ffae00",
+					"dark_color": "ff005a",
+					"composite_color": "431A2D"
+				},
+				"timezone": "America/Mexico_City",
+				"category": {
+					"id": 16,
+					"name": "Language & Ethnic Identity",
+					"shortname": "language",
+					"sort_name": "Language & Ethnic Identity"
+				},
+				"self": {
+					"status": "none"
+				},
+				"short_link": "http://meetu.ps/c/310p9/tR3rl/a",
+				"join_info": {
+					"questions_req": false,
+					"photo_req": false
+				},
+				"meta_category": {
+					"id": 212,
+					"shortname": "language",
+					"name": "Language & Culture",
+					"sort_name": "Language & Culture",
+					"photo": {
+						"id": 450131939,
+						"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/highres_450131939.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/600_450131939.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/thumb_450131939.jpeg",
+						"type": "event",
+						"base_url": "https://secure.meetupstatic.com"
+					},
+					"category_ids": [16]
+				}
+			}
+		}, {
+			"type": "group",
+			"group": {
+				"score": 0.0010000000474974513,
+				"id": 21181774,
+				"name": "Meetup de Computación e Inglés en León, MX",
+				"status": "active",
+				"link": "https://www.meetup.com/Meetup-de-Ingles-como-segundo-idioma-en-Leon/",
+				"urlname": "Meetup-de-Ingles-como-segundo-idioma-en-Leon",
+				"created": 1479172039000,
+				"city": "León",
+				"untranslated_city": "León",
+				"country": "MX",
+				"localized_country_name": "Mexico",
+				"localized_location": "León, Mexico",
+				"state": "",
+				"join_mode": "open",
+				"visibility": "public",
+				"lat": 21.12,
+				"lon": -101.69,
+				"members": 50,
+				"organizer": {
+					"id": 216162325,
+					"name": "Isaac Figueroa",
+					"bio": "",
+					"photo": {
+						"id": 261612852,
+						"highres_link": "https://secure.meetupstatic.com/photos/member/3/2/3/4/highres_261612852.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/member/3/2/3/4/member_261612852.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/member/3/2/3/4/thumb_261612852.jpeg",
+						"type": "member",
+						"base_url": "https://secure.meetupstatic.com"
+					}
+				},
+				"who": "Miembros",
+				"group_photo": {
+					"id": 456199193,
+					"highres_link": "https://secure.meetupstatic.com/photos/event/4/a/f/9/highres_456199193.jpeg",
+					"photo_link": "https://secure.meetupstatic.com/photos/event/4/a/f/9/600_456199193.jpeg",
+					"thumb_link": "https://secure.meetupstatic.com/photos/event/4/a/f/9/thumb_456199193.jpeg",
+					"type": "event",
+					"base_url": "https://secure.meetupstatic.com"
+				},
+				"key_photo": {
+					"id": 456199193,
+					"highres_link": "https://secure.meetupstatic.com/photos/event/4/a/f/9/highres_456199193.jpeg",
+					"photo_link": "https://secure.meetupstatic.com/photos/event/4/a/f/9/600_456199193.jpeg",
+					"thumb_link": "https://secure.meetupstatic.com/photos/event/4/a/f/9/thumb_456199193.jpeg",
+					"type": "event",
+					"base_url": "https://secure.meetupstatic.com"
+				},
+				"photo_gradient": {
+					"id": 8,
+					"light_color": "bdb202",
+					"dark_color": "24a601",
+					"composite_color": "1B6100"
+				},
+				"timezone": "America/Mexico_City",
+				"category": {
+					"id": 16,
+					"name": "Language & Ethnic Identity",
+					"shortname": "language",
+					"sort_name": "Language & Ethnic Identity"
+				},
+				"self": {
+					"status": "none"
+				},
+				"short_link": "http://meetu.ps/c/2TDtP/tR3rl/a",
+				"join_info": {
+					"questions_req": false,
+					"photo_req": false
+				},
+				"meta_category": {
+					"id": 212,
+					"shortname": "language",
+					"name": "Language & Culture",
+					"sort_name": "Language & Culture",
+					"photo": {
+						"id": 450131939,
+						"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/highres_450131939.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/600_450131939.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/thumb_450131939.jpeg",
+						"type": "event",
+						"base_url": "https://secure.meetupstatic.com"
+					},
+					"category_ids": [16]
+				}
+			}
+		}, {
+			"type": "group",
+			"group": {
+				"score": 0.0010000000474974513,
+				"id": 16693892,
+				"name": "Guanajuato´s Multicultural Social Group, Practice Languages",
+				"status": "active",
+				"link": "https://www.meetup.com/Conversemos-y-practiquemos-Espanol-Ingles-Japones/",
+				"urlname": "Conversemos-y-practiquemos-Espanol-Ingles-Japones",
+				"created": 1409424358000,
+				"city": "Celaya",
+				"untranslated_city": "Celaya",
+				"country": "MX",
+				"localized_country_name": "Mexico",
+				"localized_location": "Celaya, Mexico",
+				"state": "",
+				"join_mode": "open",
+				"visibility": "public",
+				"lat": 20.52,
+				"lon": -100.82,
+				"members": 390,
+				"organizer": {
+					"id": 12086118,
+					"name": "Carlos Medina",
+					"bio": "",
+					"photo": {
+						"id": 105704482,
+						"photo_link": "https://secure.meetupstatic.com/photos/member/a/d/c/2/member_105704482.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/member/a/d/c/2/thumb_105704482.jpeg",
+						"type": "member",
+						"base_url": "https://secure.meetupstatic.com"
+					}
+				},
+				"who": "Practicantes e Instructores",
+				"photo_gradient": {
+					"id": 7,
+					"light_color": "ff646a",
+					"dark_color": "000ddf",
+					"composite_color": "271578"
+				},
+				"timezone": "America/Mexico_City",
+				"category": {
+					"id": 16,
+					"name": "Language & Ethnic Identity",
+					"shortname": "language",
+					"sort_name": "Language & Ethnic Identity"
+				},
+				"self": {
+					"status": "none"
+				},
+				"short_link": "http://meetu.ps/c/2gJMn/tR3rl/a",
+				"join_info": {
+					"questions_req": false,
+					"photo_req": true
+				},
+				"meta_category": {
+					"id": 212,
+					"shortname": "language",
+					"name": "Language & Culture",
+					"sort_name": "Language & Culture",
+					"photo": {
+						"id": 450131939,
+						"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/highres_450131939.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/600_450131939.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/thumb_450131939.jpeg",
+						"type": "event",
+						"base_url": "https://secure.meetupstatic.com"
+					},
+					"category_ids": [16]
+				}
+			}
+		}, {
+			"type": "seed",
+			"seed": {
+				"topic": {
+					"id": 1393,
+					"name": "Hebrew Language",
+					"urlkey": "hebrew",
+					"lang": "en_US"
+				},
+				"local_members_interested": 6,
+				"global_members_interested": 32825,
+				"global_group_count": 95,
+				"member_has_topic": false,
+				"suggested_name": "Abasolo Hebrew Language Meetup",
+				"suggested_name_is_unique": true,
+				"related_topics": [{
+					"id": 16684,
+					"name": "Jewish",
+					"urlkey": "jewish",
+					"lang": "en_US"
+				}, {
+					"id": 17818,
+					"name": "Jewish Social",
+					"urlkey": "jewish-social",
+					"lang": "en_US"
+				}, {
+					"id": 27468,
+					"name": "Israel",
+					"urlkey": "israel",
+					"lang": "en_US"
+				}, {
+					"id": 93110,
+					"name": "Conversational Hebrew",
+					"urlkey": "conversational-hebrew",
+					"lang": "en_US"
+				}, {
+					"id": 40264,
+					"name": "Israeli Culture",
+					"urlkey": "israeli-culture",
+					"lang": "en_US"
+				}, {
+					"id": 17577,
+					"name": "Jewish Study",
+					"urlkey": "jewish-study",
+					"lang": "en_US"
+				}, {
+					"id": 26294,
+					"name": "Torah Study",
+					"urlkey": "torah-study",
+					"lang": "en_US"
+				}, {
+					"id": 70984,
+					"name": "Hebrew Roots",
+					"urlkey": "hebrew-roots",
+					"lang": "en_US"
+				}, {
+					"id": 62453,
+					"name": "Israelis",
+					"urlkey": "israelis",
+					"lang": "en_US"
+				}, {
+					"id": 23441,
+					"name": "Jewish Mixers",
+					"urlkey": "jewish-mixer",
+					"lang": "en_US"
+				}]
+			}
+		}, {
+			"type": "seed",
+			"seed": {
+				"topic": {
+					"id": 33004,
+					"name": "Chinese Culture",
+					"urlkey": "chinese-culture",
+					"lang": "en_US"
+				},
+				"local_members_interested": 16,
+				"global_members_interested": 683320,
+				"global_group_count": 957,
+				"member_has_topic": false,
+				"suggested_name": "Abasolo Chinese Culture Meetup",
+				"suggested_name_is_unique": true,
+				"related_topics": [{
+					"id": 125467,
+					"name": "Chinese language",
+					"urlkey": "chinese-language",
+					"lang": "en_US"
+				}, {
+					"id": 51192,
+					"name": "Mandarin Language",
+					"urlkey": "mandarin-language",
+					"lang": "en_US"
+				}, {
+					"id": 9760,
+					"name": "Asian Professionals",
+					"urlkey": "asianpros",
+					"lang": "en_US"
+				}, {
+					"id": 10454,
+					"name": "Language & Culture",
+					"urlkey": "language",
+					"lang": "en_US"
+				}, {
+					"id": 3921,
+					"name": "Expat Chinese",
+					"urlkey": "expatchinese",
+					"lang": "en_US"
+				}, {
+					"id": 30366,
+					"name": "Japanese Culture",
+					"urlkey": "japanese-culture",
+					"lang": "en_US"
+				}, {
+					"id": 25544,
+					"name": "Japanese Language",
+					"urlkey": "japanese-language",
+					"lang": "en_US"
+				}, {
+					"id": 106949,
+					"name": "Mandarin Learning",
+					"urlkey": "mandarin-learning",
+					"lang": "en_US"
+				}, {
+					"id": 20816,
+					"name": "Asians",
+					"urlkey": "asian",
+					"lang": "en_US"
+				}]
+			}
+		}],
+		"category": {
+			"id": 212,
+			"shortname": "language",
+			"name": "Language & Culture",
+			"sort_name": "Language & Culture",
+			"photo": {
+				"id": 450131939,
+				"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/highres_450131939.jpeg",
+				"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/600_450131939.jpeg",
+				"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/thumb_450131939.jpeg",
+				"type": "event",
+				"base_url": "https://secure.meetupstatic.com"
+			},
+			"category_ids": [16]
+		}
+	}, {
+		"type": "category",
+		"title": "Career & Business",
+		"items": [{
+			"type": "group",
+			"group": {
+				"score": 0.0010000000474974513,
+				"id": 26236635,
+				"name": "6 Pasos para Duplicar tus Ventas con una Tienda en Línea",
+				"status": "active",
+				"link": "https://www.meetup.com/6-Pasos-para-Duplicar-tus-Ventas-con-una-Tienda-en-Linea/",
+				"urlname": "6-Pasos-para-Duplicar-tus-Ventas-con-una-Tienda-en-Linea",
+				"created": 1507775498000,
+				"city": "León",
+				"untranslated_city": "León",
+				"country": "MX",
+				"localized_country_name": "Mexico",
+				"localized_location": "León, Mexico",
+				"state": "",
+				"join_mode": "open",
+				"visibility": "public",
+				"lat": 21.12,
+				"lon": -101.69,
+				"members": 50,
+				"organizer": {
+					"id": 161787022,
+					"name": "Cesar ",
+					"bio": "I'm an entrepreneur, coffeeholic that likes travel, design, mexican meal, arts, tango, latins rhythms, poetry, tech, holistic world And freedom to be.",
+					"photo": {
+						"id": 226451542,
+						"highres_link": "https://secure.meetupstatic.com/photos/member/2/d/1/6/highres_226451542.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/member/2/d/1/6/member_226451542.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/member/2/d/1/6/thumb_226451542.jpeg",
+						"type": "member",
+						"base_url": "https://secure.meetupstatic.com"
+					}
+				},
+				"who": "Miembros",
+				"photo_gradient": {
+					"id": 3,
+					"light_color": "ffc600",
+					"dark_color": "2737ff",
+					"composite_color": "141C80"
+				},
+				"timezone": "America/Mexico_City",
+				"category": {
+					"id": 2,
+					"name": "Career & Business",
+					"shortname": "career-business",
+					"sort_name": "Career & Business"
+				},
+				"self": {
+					"status": "none"
+				},
+				"short_link": "http://meetu.ps/c/3zzTG/tR3rl/a",
+				"join_info": {
+					"questions_req": false,
+					"photo_req": false
+				},
+				"meta_category": {
+					"id": 522,
+					"shortname": "career-business",
+					"name": "Career & Business",
+					"sort_name": "Career & Business",
+					"photo": {
+						"id": 450131927,
+						"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/highres_450131927.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/600_450131927.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/thumb_450131927.jpeg",
+						"type": "event",
+						"base_url": "https://secure.meetupstatic.com"
+					},
+					"category_ids": [2]
+				}
+			}
+		}, {
+			"type": "group",
+			"group": {
+				"score": 0.0010000000474974513,
+				"id": 21200862,
+				"name": "Celaya Professional Development Meetup",
+				"status": "active",
+				"link": "https://www.meetup.com/Celaya-Professional-Development-Meetup/",
+				"urlname": "Celaya-Professional-Development-Meetup",
+				"created": 1479333076000,
+				"city": "Celaya",
+				"untranslated_city": "Celaya",
+				"country": "MX",
+				"localized_country_name": "Mexico",
+				"localized_location": "Celaya, Mexico",
+				"state": "",
+				"join_mode": "open",
+				"visibility": "public",
+				"lat": 20.52,
+				"lon": -100.82,
+				"members": 50,
+				"organizer": {
+					"id": 216756045,
+					"name": "Daniela",
+					"bio": "",
+					"photo": {
+						"id": 261905161,
+						"highres_link": "https://secure.meetupstatic.com/photos/member/1/4/2/9/highres_261905161.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/member/1/4/2/9/member_261905161.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/member/1/4/2/9/thumb_261905161.jpeg",
+						"type": "member",
+						"base_url": "https://secure.meetupstatic.com"
+					}
+				},
+				"who": "Members",
+				"photo_gradient": {
+					"id": 5,
+					"light_color": "36c200",
+					"dark_color": "002fff",
+					"composite_color": "083280"
+				},
+				"timezone": "America/Mexico_City",
+				"category": {
+					"id": 2,
+					"name": "Career & Business",
+					"shortname": "career-business",
+					"sort_name": "Career & Business"
+				},
+				"self": {
+					"status": "none"
+				},
+				"short_link": "http://meetu.ps/c/2TMxT/tR3rl/a",
+				"join_info": {
+					"questions_req": false,
+					"photo_req": false
+				},
+				"meta_category": {
+					"id": 522,
+					"shortname": "career-business",
+					"name": "Career & Business",
+					"sort_name": "Career & Business",
+					"photo": {
+						"id": 450131927,
+						"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/highres_450131927.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/600_450131927.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/thumb_450131927.jpeg",
+						"type": "event",
+						"base_url": "https://secure.meetupstatic.com"
+					},
+					"category_ids": [2]
+				}
+			}
+		}, {
+			"type": "group",
+			"group": {
+				"score": 0.0010000000474974513,
+				"id": 16780762,
+				"name": "ideAmor San Miguel de Allende: Tech, Entrepreneurs, Startups",
+				"status": "active",
+				"link": "https://www.meetup.com/ideAmor-San-Miguel-de-Allende-Tech-Entrepreneurs-Startups/",
+				"urlname": "ideAmor-San-Miguel-de-Allende-Tech-Entrepreneurs-Startups",
+				"created": 1409788808000,
+				"city": "San Miguel de Allende",
+				"untranslated_city": "San Miguel de Allende",
+				"country": "MX",
+				"localized_country_name": "Mexico",
+				"localized_location": "San Miguel de Allende, Mexico",
+				"state": "",
+				"join_mode": "open",
+				"visibility": "public",
+				"lat": 20.92,
+				"lon": -100.76,
+				"members": 139,
+				"organizer": {
+					"id": 8756140,
+					"name": "Alex Brotherbees",
+					"bio": "",
+					"photo": {
+						"id": 231430752,
+						"highres_link": "https://secure.meetupstatic.com/photos/member/2/a/0/0/highres_231430752.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/member/2/a/0/0/member_231430752.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/member/2/a/0/0/thumb_231430752.jpeg",
+						"type": "member",
+						"base_url": "https://secure.meetupstatic.com"
+					}
+				},
+				"who": "Idea Lovers",
+				"group_photo": {
+					"id": 448651749,
+					"highres_link": "https://secure.meetupstatic.com/photos/event/7/c/0/5/highres_448651749.jpeg",
+					"photo_link": "https://secure.meetupstatic.com/photos/event/7/c/0/5/600_448651749.jpeg",
+					"thumb_link": "https://secure.meetupstatic.com/photos/event/7/c/0/5/thumb_448651749.jpeg",
+					"type": "event",
+					"base_url": "https://secure.meetupstatic.com"
+				},
+				"key_photo": {
+					"id": 448651721,
+					"highres_link": "https://secure.meetupstatic.com/photos/event/7/b/e/9/highres_448651721.jpeg",
+					"photo_link": "https://secure.meetupstatic.com/photos/event/7/b/e/9/600_448651721.jpeg",
+					"thumb_link": "https://secure.meetupstatic.com/photos/event/7/b/e/9/thumb_448651721.jpeg",
+					"type": "event",
+					"base_url": "https://secure.meetupstatic.com"
+				},
+				"photo_gradient": {
+					"id": 1,
+					"light_color": "ff7900",
+					"dark_color": "7700c8",
+					"composite_color": "3C0064"
+				},
+				"timezone": "America/Mexico_City",
+				"category": {
+					"id": 2,
+					"name": "Career & Business",
+					"shortname": "career-business",
+					"sort_name": "Career & Business"
+				},
+				"self": {
+					"status": "none"
+				},
+				"short_link": "http://meetu.ps/c/2hkTY/tR3rl/a",
+				"join_info": {
+					"questions_req": true,
+					"photo_req": false,
+					"questions": [{
+						"id": 7888432,
+						"question": "What are you looking for from the ideAmor group?"
+					}, {
+						"id": 7888422,
+						"question": "What are your specialties or skills?"
+					}]
+				},
+				"meta_category": {
+					"id": 522,
+					"shortname": "career-business",
+					"name": "Career & Business",
+					"sort_name": "Career & Business",
+					"photo": {
+						"id": 450131927,
+						"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/highres_450131927.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/600_450131927.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/thumb_450131927.jpeg",
+						"type": "event",
+						"base_url": "https://secure.meetupstatic.com"
+					},
+					"category_ids": [2]
+				}
+			}
+		}, {
+			"type": "group",
+			"group": {
+				"score": 0.0010000000474974513,
+				"id": 27350432,
+				"name": "Startup Grind Leon",
+				"status": "active",
+				"link": "https://www.meetup.com/Startup-Grind-Leon/",
+				"urlname": "Startup-Grind-Leon",
+				"created": 1517529824000,
+				"city": "León",
+				"untranslated_city": "León",
+				"country": "MX",
+				"localized_country_name": "Mexico",
+				"localized_location": "León, Mexico",
+				"state": "",
+				"join_mode": "open",
+				"visibility": "public",
+				"lat": 21.12,
+				"lon": -101.69,
+				"members": 50,
+				"organizer": {
+					"id": 226462720,
+					"name": "Marco Otilio Peña Diaz",
+					"bio": "",
+					"photo": {
+						"id": 266409874,
+						"highres_link": "https://secure.meetupstatic.com/photos/member/2/6/9/2/highres_266409874.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/member/2/6/9/2/member_266409874.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/member/2/6/9/2/thumb_266409874.jpeg",
+						"type": "member",
+						"base_url": "https://secure.meetupstatic.com"
+					}
+				},
+				"who": "Members",
+				"key_photo": {
+					"id": 468108359,
+					"highres_link": "https://secure.meetupstatic.com/photos/event/b/c/e/7/highres_468108359.jpeg",
+					"photo_link": "https://secure.meetupstatic.com/photos/event/b/c/e/7/600_468108359.jpeg",
+					"thumb_link": "https://secure.meetupstatic.com/photos/event/b/c/e/7/thumb_468108359.jpeg",
+					"type": "event",
+					"base_url": "https://secure.meetupstatic.com"
+				},
+				"photo_gradient": {
+					"id": 1,
+					"light_color": "ff7900",
+					"dark_color": "7700c8",
+					"composite_color": "3C0064"
+				},
+				"timezone": "America/Mexico_City",
+				"category": {
+					"id": 2,
+					"name": "Career & Business",
+					"shortname": "career-business",
+					"sort_name": "Career & Business"
+				},
+				"self": {
+					"status": "none"
+				},
+				"short_link": "http://meetu.ps/c/3KvNR/tR3rl/a",
+				"join_info": {
+					"questions_req": false,
+					"photo_req": false
+				},
+				"meta_category": {
+					"id": 522,
+					"shortname": "career-business",
+					"name": "Career & Business",
+					"sort_name": "Career & Business",
+					"photo": {
+						"id": 450131927,
+						"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/highres_450131927.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/600_450131927.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/thumb_450131927.jpeg",
+						"type": "event",
+						"base_url": "https://secure.meetupstatic.com"
+					},
+					"category_ids": [2]
+				}
+			}
+		}, {
+			"type": "group",
+			"group": {
+				"score": 0.0010000000474974513,
+				"id": 25419053,
+				"name": "The Lonely Entrepreneur-San Miguel de Allende",
+				"status": "active",
+				"link": "https://www.meetup.com/The-Lonely-Entrepreneur-San-Miguel-de-Allende/",
+				"urlname": "The-Lonely-Entrepreneur-San-Miguel-de-Allende",
+				"created": 1502245078000,
+				"city": "San Miguel de Allende",
+				"untranslated_city": "San Miguel de Allende",
+				"country": "MX",
+				"localized_country_name": "Mexico",
+				"localized_location": "San Miguel de Allende, Mexico",
+				"state": "",
+				"join_mode": "open",
+				"visibility": "public",
+				"lat": 20.92,
+				"lon": -100.76,
+				"members": 55,
+				"organizer": {
+					"id": 206360175,
+					"name": "Victoria Sherman",
+					"bio": "Welcome! The Lonely Entrepreneur  is dedicated to providing insights & solutions to business & personal issues we face as entrepreneurs. Look forward to meeting everyone! Get a FREE daily perspective at lonelyentrepreneur.c­om/subscribe.",
+					"photo": {
+						"id": 265698774,
+						"highres_link": "https://secure.meetupstatic.com/photos/member/4/9/5/6/highres_265698774.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/member/4/9/5/6/member_265698774.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/member/4/9/5/6/thumb_265698774.jpeg",
+						"type": "member",
+						"base_url": "https://secure.meetupstatic.com"
+					}
+				},
+				"who": "Members",
+				"photo_gradient": {
+					"id": 7,
+					"light_color": "ff646a",
+					"dark_color": "000ddf",
+					"composite_color": "271578"
+				},
+				"timezone": "America/Mexico_City",
+				"category": {
+					"id": 2,
+					"name": "Career & Business",
+					"shortname": "career-business",
+					"sort_name": "Career & Business"
+				},
+				"self": {
+					"status": "none"
+				},
+				"short_link": "http://meetu.ps/c/3sMwX/tR3rl/a",
+				"join_info": {
+					"questions_req": false,
+					"photo_req": false
+				},
+				"meta_category": {
+					"id": 522,
+					"shortname": "career-business",
+					"name": "Career & Business",
+					"sort_name": "Career & Business",
+					"photo": {
+						"id": 450131927,
+						"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/highres_450131927.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/600_450131927.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/thumb_450131927.jpeg",
+						"type": "event",
+						"base_url": "https://secure.meetupstatic.com"
+					},
+					"category_ids": [2]
+				}
+			}
+		}, {
+			"type": "seed",
+			"seed": {
+				"topic": {
+					"id": 1954,
+					"name": "Innovation",
+					"urlkey": "innovation",
+					"lang": "en_US"
+				},
+				"local_members_interested": 290,
+				"global_members_interested": 3234894,
+				"global_group_count": 6769,
+				"member_has_topic": false,
+				"suggested_name": "Abasolo Innovation Meetup",
+				"suggested_name_is_unique": true,
+				"related_topics": [{
+					"id": 19882,
+					"name": "Entrepreneurship",
+					"urlkey": "entrepreneurship",
+					"lang": "en_US"
+				}, {
+					"id": 21681,
+					"name": "Startup Businesses",
+					"urlkey": "startup-businesses",
+					"lang": "en_US"
+				}, {
+					"id": 9696,
+					"name": "New Technology",
+					"urlkey": "newtech",
+					"lang": "en_US"
+				}, {
+					"id": 108403,
+					"name": "Technology Startups",
+					"urlkey": "technology-startups",
+					"lang": "en_US"
+				}, {
+					"id": 15720,
+					"name": "Professional Networking",
+					"urlkey": "professional-networking",
+					"lang": "en_US"
+				}, {
+					"id": 38660,
+					"name": "Lean Startup",
+					"urlkey": "lean-startup",
+					"lang": "en_US"
+				}, {
+					"id": 2993,
+					"name": "Product Design",
+					"urlkey": "productdesign",
+					"lang": "en_US"
+				}, {
+					"id": 20060,
+					"name": "Entrepreneur Networking",
+					"urlkey": "business-entrepreneur-networking",
+					"lang": "en_US"
+				}, {
+					"id": 128595,
+					"name": "Internet Startups",
+					"urlkey": "internet-startups",
+					"lang": "en_US"
+				}, {
+					"id": 17635,
+					"name": "Business Strategy",
+					"urlkey": "business-strategy",
+					"lang": "en_US"
+				}]
+			}
+		}, {
+			"type": "group",
+			"group": {
+				"score": 0.0010000000474974513,
+				"id": 25587539,
+				"name": "Herramientas para proyectos de negocios",
+				"status": "active",
+				"link": "https://www.meetup.com/herramientas-para-proyectos/",
+				"urlname": "herramientas-para-proyectos",
+				"created": 1503439488000,
+				"city": "León",
+				"untranslated_city": "León",
+				"country": "MX",
+				"localized_country_name": "Mexico",
+				"localized_location": "León, Mexico",
+				"state": "",
+				"join_mode": "open",
+				"visibility": "public",
+				"lat": 21.12,
+				"lon": -101.69,
+				"members": 50,
+				"organizer": {
+					"id": 190902544,
+					"name": "Ignacio de González",
+					"bio": "Impulsor de ideas que generan resultados positivos en la sociedad",
+					"photo": {
+						"id": 248543799,
+						"highres_link": "https://secure.meetupstatic.com/photos/member/5/c/f/7/highres_248543799.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/member/5/c/f/7/member_248543799.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/member/5/c/f/7/thumb_248543799.jpeg",
+						"type": "member",
+						"base_url": "https://secure.meetupstatic.com"
+					}
+				},
+				"who": "Miembros",
+				"group_photo": {
+					"id": 463927136,
+					"highres_link": "https://secure.meetupstatic.com/photos/event/1/b/e/0/highres_463927136.jpeg",
+					"photo_link": "https://secure.meetupstatic.com/photos/event/1/b/e/0/600_463927136.jpeg",
+					"thumb_link": "https://secure.meetupstatic.com/photos/event/1/b/e/0/thumb_463927136.jpeg",
+					"type": "event",
+					"base_url": "https://secure.meetupstatic.com"
+				},
+				"key_photo": {
+					"id": 463927136,
+					"highres_link": "https://secure.meetupstatic.com/photos/event/1/b/e/0/highres_463927136.jpeg",
+					"photo_link": "https://secure.meetupstatic.com/photos/event/1/b/e/0/600_463927136.jpeg",
+					"thumb_link": "https://secure.meetupstatic.com/photos/event/1/b/e/0/thumb_463927136.jpeg",
+					"type": "event",
+					"base_url": "https://secure.meetupstatic.com"
+				},
+				"photo_gradient": {
+					"id": 1,
+					"light_color": "ff7900",
+					"dark_color": "7700c8",
+					"composite_color": "3C0064"
+				},
+				"timezone": "America/Mexico_City",
+				"category": {
+					"id": 2,
+					"name": "Career & Business",
+					"shortname": "career-business",
+					"sort_name": "Career & Business"
+				},
+				"self": {
+					"status": "none"
+				},
+				"short_link": "http://meetu.ps/c/3tYR3/tR3rl/a",
+				"join_info": {
+					"questions_req": false,
+					"photo_req": false
+				},
+				"meta_category": {
+					"id": 522,
+					"shortname": "career-business",
+					"name": "Career & Business",
+					"sort_name": "Career & Business",
+					"photo": {
+						"id": 450131927,
+						"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/highres_450131927.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/600_450131927.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/thumb_450131927.jpeg",
+						"type": "event",
+						"base_url": "https://secure.meetupstatic.com"
+					},
+					"category_ids": [2]
+				}
+			}
+		}, {
+			"type": "group",
+			"group": {
+				"score": 0.0010000000474974513,
+				"id": 20632004,
+				"name": "Meetup de Emprender en León",
+				"status": "active",
+				"link": "https://www.meetup.com/Meetup-de-Emprender-en-Leon/",
+				"urlname": "Meetup-de-Emprender-en-Leon",
+				"created": 1475797412000,
+				"city": "León",
+				"untranslated_city": "León",
+				"country": "MX",
+				"localized_country_name": "Mexico",
+				"localized_location": "León, Mexico",
+				"state": "",
+				"join_mode": "open",
+				"visibility": "public",
+				"lat": 21.12,
+				"lon": -101.69,
+				"members": 50,
+				"organizer": {
+					"id": 214488182,
+					"name": "Carito Glez",
+					"bio": "",
+					"photo": {
+						"id": 260804574,
+						"highres_link": "https://secure.meetupstatic.com/photos/member/a/e/1/e/highres_260804574.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/member/a/e/1/e/member_260804574.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/member/a/e/1/e/thumb_260804574.jpeg",
+						"type": "member",
+						"base_url": "https://secure.meetupstatic.com"
+					}
+				},
+				"who": "Miembros",
+				"key_photo": {
+					"id": 455244140,
+					"highres_link": "https://secure.meetupstatic.com/photos/event/5/e/4/c/highres_455244140.jpeg",
+					"photo_link": "https://secure.meetupstatic.com/photos/event/5/e/4/c/600_455244140.jpeg",
+					"thumb_link": "https://secure.meetupstatic.com/photos/event/5/e/4/c/thumb_455244140.jpeg",
+					"type": "event",
+					"base_url": "https://secure.meetupstatic.com"
+				},
+				"photo_gradient": {
+					"id": 5,
+					"light_color": "36c200",
+					"dark_color": "002fff",
+					"composite_color": "083280"
+				},
+				"timezone": "America/Mexico_City",
+				"category": {
+					"id": 2,
+					"name": "Career & Business",
+					"shortname": "career-business",
+					"sort_name": "Career & Business"
+				},
+				"self": {
+					"status": "none"
+				},
+				"short_link": "http://meetu.ps/c/2PK9j/tR3rl/a",
+				"join_info": {
+					"questions_req": false,
+					"photo_req": false
+				},
+				"meta_category": {
+					"id": 522,
+					"shortname": "career-business",
+					"name": "Career & Business",
+					"sort_name": "Career & Business",
+					"photo": {
+						"id": 450131927,
+						"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/highres_450131927.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/600_450131927.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/thumb_450131927.jpeg",
+						"type": "event",
+						"base_url": "https://secure.meetupstatic.com"
+					},
+					"category_ids": [2]
+				}
+			}
+		}, {
+			"type": "group",
+			"group": {
+				"score": 0.0010000000474974513,
+				"id": 19478277,
+				"name": "Mundo en Sinergia",
+				"status": "active",
+				"link": "https://www.meetup.com/Meetup-de-Mundo-en-Sinergia/",
+				"urlname": "Meetup-de-Mundo-en-Sinergia",
+				"created": 1454285937000,
+				"city": "León",
+				"untranslated_city": "León",
+				"country": "MX",
+				"localized_country_name": "Mexico",
+				"localized_location": "León, Mexico",
+				"state": "",
+				"join_mode": "open",
+				"visibility": "public",
+				"lat": 21.12,
+				"lon": -101.69,
+				"members": 50,
+				"organizer": {
+					"id": 198954231,
+					"name": "Mundo en Sinergia",
+					"bio": "",
+					"photo": {
+						"id": 253443250,
+						"highres_link": "https://secure.meetupstatic.com/photos/member/c/b/2/highres_253443250.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/member/c/b/2/member_253443250.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/member/c/b/2/thumb_253443250.jpeg",
+						"type": "member",
+						"base_url": "https://secure.meetupstatic.com"
+					}
+				},
+				"who": "emprendedores",
+				"photo_gradient": {
+					"id": 2,
+					"light_color": "48ffcb",
+					"dark_color": "8a00eb",
+					"composite_color": "450076"
+				},
+				"timezone": "America/Mexico_City",
+				"category": {
+					"id": 2,
+					"name": "Career & Business",
+					"shortname": "career-business",
+					"sort_name": "Career & Business"
+				},
+				"self": {
+					"status": "none"
+				},
+				"short_link": "http://meetu.ps/c/2Fwvf/tR3rl/a",
+				"join_info": {
+					"questions_req": false,
+					"photo_req": true
+				},
+				"meta_category": {
+					"id": 522,
+					"shortname": "career-business",
+					"name": "Career & Business",
+					"sort_name": "Career & Business",
+					"photo": {
+						"id": 450131927,
+						"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/highres_450131927.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/600_450131927.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/thumb_450131927.jpeg",
+						"type": "event",
+						"base_url": "https://secure.meetupstatic.com"
+					},
+					"category_ids": [2]
+				}
+			}
+		}, {
+			"type": "group",
+			"group": {
+				"score": 0.0010000000474974513,
+				"id": 22303554,
+				"name": "Meetup de en BNI 360 Celaya  Networking para empresas",
+				"status": "active",
+				"link": "https://www.meetup.com/Meetup-de-en-BNI-360-Celaya-Networking-para-empresas/",
+				"urlname": "Meetup-de-en-BNI-360-Celaya-Networking-para-empresas",
+				"created": 1486647866000,
+				"city": "Celaya",
+				"untranslated_city": "Celaya",
+				"country": "MX",
+				"localized_country_name": "Mexico",
+				"localized_location": "Celaya, Mexico",
+				"state": "",
+				"join_mode": "open",
+				"visibility": "public",
+				"lat": 20.52,
+				"lon": -100.82,
+				"members": 48,
+				"organizer": {
+					"id": 139001512,
+					"name": "Ab Rico Moreno",
+					"bio": "",
+					"photo": {
+						"id": 229041822,
+						"highres_link": "https://secure.meetupstatic.com/photos/member/5/5/3/e/highres_229041822.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/member/5/5/3/e/member_229041822.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/member/5/5/3/e/thumb_229041822.jpeg",
+						"type": "member",
+						"base_url": "https://secure.meetupstatic.com"
+					}
+				},
+				"who": "Miembros",
+				"photo_gradient": {
+					"id": 3,
+					"light_color": "ffc600",
+					"dark_color": "2737ff",
+					"composite_color": "141C80"
+				},
+				"timezone": "America/Mexico_City",
+				"category": {
+					"id": 2,
+					"name": "Career & Business",
+					"shortname": "career-business",
+					"sort_name": "Career & Business"
+				},
+				"self": {
+					"status": "none"
+				},
+				"short_link": "http://meetu.ps/c/32Clv/tR3rl/a",
+				"join_info": {
+					"questions_req": false,
+					"photo_req": false
+				},
+				"meta_category": {
+					"id": 522,
+					"shortname": "career-business",
+					"name": "Career & Business",
+					"sort_name": "Career & Business",
+					"photo": {
+						"id": 450131927,
+						"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/highres_450131927.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/600_450131927.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/thumb_450131927.jpeg",
+						"type": "event",
+						"base_url": "https://secure.meetupstatic.com"
+					},
+					"category_ids": [2]
+				}
+			}
+		}],
+		"category": {
+			"id": 522,
+			"shortname": "career-business",
+			"name": "Career & Business",
+			"sort_name": "Career & Business",
+			"photo": {
+				"id": 450131927,
+				"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/highres_450131927.jpeg",
+				"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/600_450131927.jpeg",
+				"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/thumb_450131927.jpeg",
+				"type": "event",
+				"base_url": "https://secure.meetupstatic.com"
+			},
+			"category_ids": [2]
+		}
+	}, {
+		"type": "collection",
+		"title": "This Week",
+		"items": [{
+			"type": "group",
+			"group": {
+				"score": 0.06869560480117798,
+				"id": 24301009,
+				"name": "San Miguel de Allende Frisbee Golf Meetup",
+				"status": "active",
+				"link": "https://www.meetup.com/San-Miguel-de-Allende-Frisbee-Golf-Meetup/",
+				"urlname": "San-Miguel-de-Allende-Frisbee-Golf-Meetup",
+				"created": 1496710643000,
+				"city": "San Miguel de Allende",
+				"untranslated_city": "San Miguel de Allende",
+				"country": "MX",
+				"localized_country_name": "Mexico",
+				"localized_location": "San Miguel de Allende, Mexico",
+				"state": "",
+				"join_mode": "open",
+				"visibility": "public",
+				"lat": 20.92,
+				"lon": -100.76,
+				"members": 50,
+				"organizer": {
+					"id": 50936782,
+					"name": "Robert",
+					"bio": "I own a business in Kansas City and manage it virtually as I travel.",
+					"photo": {
+						"id": 135894772,
+						"highres_link": "https://secure.meetupstatic.com/photos/member/d/5/f/4/highres_135894772.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/member/d/5/f/4/member_135894772.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/member/d/5/f/4/thumb_135894772.jpeg",
+						"type": "member",
+						"base_url": "https://secure.meetupstatic.com"
+					}
+				},
+				"who": "Members",
+				"key_photo": {
+					"id": 462316800,
+					"highres_link": "https://secure.meetupstatic.com/photos/event/4/1/a/0/highres_462316800.jpeg",
+					"photo_link": "https://secure.meetupstatic.com/photos/event/4/1/a/0/600_462316800.jpeg",
+					"thumb_link": "https://secure.meetupstatic.com/photos/event/4/1/a/0/thumb_462316800.jpeg",
+					"type": "event",
+					"base_url": "https://secure.meetupstatic.com"
+				},
+				"photo_gradient": {
+					"id": 4,
+					"light_color": "00a8ff",
+					"dark_color": "fa002f",
+					"composite_color": "7D0018"
+				},
+				"timezone": "America/Mexico_City",
+				"next_event": {
+					"id": "vjtsmnyxnbpb",
+					"name": "Frisbee Golf",
+					"yes_rsvp_count": 2,
+					"time": 1539266400000,
+					"utc_offset": -18000000
+				},
+				"category": {
+					"id": 32,
+					"name": "Sports & Recreation",
+					"shortname": "sports-recreation",
+					"sort_name": "Sports & Recreation"
+				},
+				"self": {
+					"status": "none"
+				},
+				"short_link": "http://meetu.ps/c/3jQ35/tR3rl/a",
+				"join_info": {
+					"questions_req": false,
+					"photo_req": false
+				},
+				"meta_category": {
+					"id": 282,
+					"shortname": "sports-fitness",
+					"name": "Sports & Fitness",
+					"sort_name": "Sports & Fitness",
+					"photo": {
+						"id": 450131948,
+						"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/c/highres_450131948.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/c/600_450131948.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/c/thumb_450131948.jpeg",
+						"type": "event",
+						"base_url": "https://secure.meetupstatic.com"
+					},
+					"category_ids": [9, 32]
+				}
+			}
+		}, {
+			"type": "group",
+			"group": {
+				"score": 0.07270214706659317,
+				"id": 29497345,
+				"name": "San Miguel de Allende Lesbian Meetup",
+				"status": "active",
+				"link": "https://www.meetup.com/San-Miguel-de-Allende-Lesbian-Meetup/",
+				"urlname": "San-Miguel-de-Allende-Lesbian-Meetup",
+				"created": 1534012272000,
+				"city": "San Miguel de Allende",
+				"untranslated_city": "San Miguel de Allende",
+				"country": "MX",
+				"localized_country_name": "Mexico",
+				"localized_location": "San Miguel de Allende, Mexico",
+				"state": "",
+				"join_mode": "open",
+				"visibility": "public",
+				"lat": 20.92,
+				"lon": -100.76,
+				"members": 50,
+				"organizer": {
+					"id": 2074507,
+					"name": "Gayle",
+					"bio": "Hi....saw your picture of the Familia Sagrada in Barcelona...one of my fave cities. Just got back from Argentina and looking forward to many more great trips!",
+					"photo": {
+						"id": 259972241,
+						"highres_link": "https://secure.meetupstatic.com/photos/member/c/c/1/1/highres_259972241.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/member/c/c/1/1/member_259972241.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/member/c/c/1/1/thumb_259972241.jpeg",
+						"type": "member",
+						"base_url": "https://secure.meetupstatic.com"
+					}
+				},
+				"who": "Members",
+				"key_photo": {
+					"id": 473656941,
+					"highres_link": "https://secure.meetupstatic.com/photos/event/4/2/2/d/highres_473656941.jpeg",
+					"photo_link": "https://secure.meetupstatic.com/photos/event/4/2/2/d/600_473656941.jpeg",
+					"thumb_link": "https://secure.meetupstatic.com/photos/event/4/2/2/d/thumb_473656941.jpeg",
+					"type": "event",
+					"base_url": "https://secure.meetupstatic.com"
+				},
+				"photo_gradient": {
+					"id": 1,
+					"light_color": "ff7900",
+					"dark_color": "7700c8",
+					"composite_color": "3C0064"
+				},
+				"timezone": "America/Mexico_City",
+				"next_event": {
+					"id": "nzxlgqyxnbqb",
+					"name": "Karaoke Fridays!",
+					"yes_rsvp_count": 4,
+					"time": 1539388800000,
+					"utc_offset": -18000000
+				},
+				"category": {
+					"id": 12,
+					"name": "LGBT",
+					"shortname": "lgbt",
+					"sort_name": "LGBT"
+				},
+				"self": {
+					"status": "none"
+				},
+				"short_link": "http://meetu.ps/c/41MMD/tR3rl/a",
+				"join_info": {
+					"questions_req": false,
+					"photo_req": false
+				},
+				"meta_category": {
+					"id": 585,
+					"shortname": "lgbtq",
+					"name": "LGBTQ",
+					"sort_name": "LGBTQ",
+					"photo": {
+						"id": 450131940,
+						"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/4/highres_450131940.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/4/600_450131940.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/4/thumb_450131940.jpeg",
+						"type": "event",
+						"base_url": "https://secure.meetupstatic.com"
+					},
+					"category_ids": [12]
+				}
+			}
+		}, {
+			"type": "group",
+			"group": {
+				"score": 0.06869560480117798,
+				"id": 27524156,
+				"name": "San Miguel de Allende Digital Photography Meetup",
+				"status": "active",
+				"link": "https://www.meetup.com/San-Miguel-de-Allende-Digital-Photography-Meetup/",
+				"urlname": "San-Miguel-de-Allende-Digital-Photography-Meetup",
+				"created": 1518647352000,
+				"city": "San Miguel de Allende",
+				"untranslated_city": "San Miguel de Allende",
+				"country": "MX",
+				"localized_country_name": "Mexico",
+				"localized_location": "San Miguel de Allende, Mexico",
+				"state": "",
+				"join_mode": "open",
+				"visibility": "public",
+				"lat": 20.92,
+				"lon": -100.76,
+				"members": 105,
+				"organizer": {
+					"id": 248242145,
+					"name": "Photographic Gallery SMA",
+					"bio": "",
+					"photo": {
+						"id": 275862861,
+						"highres_link": "https://secure.meetupstatic.com/photos/member/a/7/6/d/highres_275862861.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/member/a/7/6/d/member_275862861.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/member/a/7/6/d/thumb_275862861.jpeg",
+						"type": "member",
+						"base_url": "https://secure.meetupstatic.com"
+					}
+				},
+				"who": "Members",
+				"key_photo": {
+					"id": 470101917,
+					"highres_link": "https://secure.meetupstatic.com/photos/event/7/7/d/highres_470101917.jpeg",
+					"photo_link": "https://secure.meetupstatic.com/photos/event/7/7/d/600_470101917.jpeg",
+					"thumb_link": "https://secure.meetupstatic.com/photos/event/7/7/d/thumb_470101917.jpeg",
+					"type": "event",
+					"base_url": "https://secure.meetupstatic.com"
+				},
+				"photo_gradient": {
+					"id": 1,
+					"light_color": "ff7900",
+					"dark_color": "7700c8",
+					"composite_color": "3C0064"
+				},
+				"timezone": "America/Mexico_City",
+				"next_event": {
+					"id": "wjpfppyxnbrb",
+					"name": "Saturday Photographer's Coffee Social",
+					"yes_rsvp_count": 1,
+					"time": 1539446400000,
+					"utc_offset": -18000000
+				},
+				"category": {
+					"id": 27,
+					"name": "Photography",
+					"shortname": "photography",
+					"sort_name": "Photography"
+				},
+				"self": {
+					"status": "none"
+				},
+				"short_link": "http://meetu.ps/c/3LL2H/tR3rl/a",
+				"join_info": {
+					"questions_req": false,
+					"photo_req": false
+				},
+				"meta_category": {
+					"id": 262,
+					"shortname": "photography",
+					"name": "Photography",
+					"sort_name": "Photography",
+					"photo": {
+						"id": 450131946,
+						"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/a/highres_450131946.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/a/600_450131946.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/a/thumb_450131946.jpeg",
+						"type": "event",
+						"base_url": "https://secure.meetupstatic.com"
+					},
+					"category_ids": [27]
+				}
+			}
+		}, {
+			"type": "group",
+			"group": {
+				"score": 0.08703392744064331,
+				"id": 20444197,
+				"name": "Mercado de Granjeros de León",
+				"status": "active",
+				"link": "https://www.meetup.com/Mercado-de-Granjeros-de-Leon/",
+				"urlname": "Mercado-de-Granjeros-de-Leon",
+				"created": 1474316744000,
+				"city": "León",
+				"untranslated_city": "León",
+				"country": "MX",
+				"localized_country_name": "Mexico",
+				"localized_location": "León, Mexico",
+				"state": "",
+				"join_mode": "open",
+				"visibility": "public",
+				"lat": 21.12,
+				"lon": -101.69,
+				"members": 50,
+				"organizer": {
+					"id": 198353272,
+					"name": "Manolo Navarro",
+					"bio": "",
+					"photo": {
+						"id": 253076328,
+						"highres_link": "https://secure.meetupstatic.com/photos/member/d/c/0/8/highres_253076328.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/member/d/c/0/8/member_253076328.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/member/d/c/0/8/thumb_253076328.jpeg",
+						"type": "member",
+						"base_url": "https://secure.meetupstatic.com"
+					}
+				},
+				"who": "Miembros",
+				"group_photo": {
+					"id": 454409556,
+					"highres_link": "https://secure.meetupstatic.com/photos/event/7/3/7/4/highres_454409556.jpeg",
+					"photo_link": "https://secure.meetupstatic.com/photos/event/7/3/7/4/600_454409556.jpeg",
+					"thumb_link": "https://secure.meetupstatic.com/photos/event/7/3/7/4/thumb_454409556.jpeg",
+					"type": "event",
+					"base_url": "https://secure.meetupstatic.com"
+				},
+				"key_photo": {
+					"id": 454409415,
+					"highres_link": "https://secure.meetupstatic.com/photos/event/7/2/e/7/highres_454409415.jpeg",
+					"photo_link": "https://secure.meetupstatic.com/photos/event/7/2/e/7/600_454409415.jpeg",
+					"thumb_link": "https://secure.meetupstatic.com/photos/event/7/2/e/7/thumb_454409415.jpeg",
+					"type": "event",
+					"base_url": "https://secure.meetupstatic.com"
+				},
+				"photo_gradient": {
+					"id": 1,
+					"light_color": "ff7900",
+					"dark_color": "7700c8",
+					"composite_color": "3C0064"
+				},
+				"timezone": "America/Mexico_City",
+				"next_event": {
+					"id": "ghwbzlyxnbsb",
+					"name": "Comer, comprar y descanzar.",
+					"yes_rsvp_count": 1,
+					"time": 1539527400000,
+					"utc_offset": -18000000
+				},
+				"category": {
+					"id": 10,
+					"name": "Food & Drink",
+					"shortname": "food-drink",
+					"sort_name": "Food & Drink"
+				},
+				"self": {
+					"status": "none"
+				},
+				"short_link": "http://meetu.ps/c/2NnJD/tR3rl/a",
+				"join_info": {
+					"questions_req": false,
+					"photo_req": false
+				},
+				"meta_category": {
+					"id": 162,
+					"shortname": "food",
+					"name": "Food & Drink",
+					"sort_name": "Food & Drink",
+					"photo": {
+						"id": 450131937,
+						"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/1/highres_450131937.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/1/600_450131937.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/1/thumb_450131937.jpeg",
+						"type": "event",
+						"base_url": "https://secure.meetupstatic.com"
+					},
+					"category_ids": [10]
+				}
+			}
+		}, {
+			"type": "group",
+			"group": {
+				"score": 0.07025809586048126,
+				"id": 29205276,
+				"name": "Death Cafe San Miguel de Allende",
+				"status": "active",
+				"link": "https://www.meetup.com/Death-Cafe-San-Miguel-de-Allende/",
+				"urlname": "Death-Cafe-San-Miguel-de-Allende",
+				"created": 1531316772000,
+				"city": "San Miguel de Allende",
+				"untranslated_city": "San Miguel de Allende",
+				"country": "MX",
+				"localized_country_name": "Mexico",
+				"localized_location": "San Miguel de Allende, Mexico",
+				"state": "",
+				"join_mode": "open",
+				"visibility": "public",
+				"lat": 20.92,
+				"lon": -100.76,
+				"members": 24,
+				"organizer": {
+					"id": 189970571,
+					"name": "Wilka",
+					"bio": "Death doula, integrative grief therapist, ordained ecumenical minister, dream worker, transpersonal archetypal cross-cultural psychologist, somatic & energy therapist, QigongTai Chi instructor. Master of Transpersonal Psychology; Master of Fine Arts.",
+					"photo": {
+						"id": 250209597,
+						"highres_link": "https://secure.meetupstatic.com/photos/member/2/5/7/d/highres_250209597.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/member/2/5/7/d/member_250209597.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/member/2/5/7/d/thumb_250209597.jpeg",
+						"type": "member",
+						"base_url": "https://secure.meetupstatic.com"
+					}
+				},
+				"who": "Members",
+				"key_photo": {
+					"id": 473080950,
+					"highres_link": "https://secure.meetupstatic.com/photos/event/9/f/f/6/highres_473080950.jpeg",
+					"photo_link": "https://secure.meetupstatic.com/photos/event/9/f/f/6/600_473080950.jpeg",
+					"thumb_link": "https://secure.meetupstatic.com/photos/event/9/f/f/6/thumb_473080950.jpeg",
+					"type": "event",
+					"base_url": "https://secure.meetupstatic.com"
+				},
+				"photo_gradient": {
+					"id": 5,
+					"light_color": "36c200",
+					"dark_color": "002fff",
+					"composite_color": "083280"
+				},
+				"timezone": "America/Mexico_City",
+				"next_event": {
+					"id": "lllcgqyxnbtb",
+					"name": "Death Cafe San Miguel de Allende",
+					"yes_rsvp_count": 1,
+					"time": 1539637200000,
+					"utc_offset": -18000000
+				},
+				"category": {
+					"id": 6,
+					"name": "Education & Learning",
+					"shortname": "education-learning",
+					"sort_name": "Education & Learning"
+				},
+				"self": {
+					"status": "none"
+				},
+				"short_link": "http://meetu.ps/c/3ZHLW/tR3rl/a",
+				"join_info": {
+					"questions_req": true,
+					"photo_req": true,
+					"questions": [{
+						"id": 8806843,
+						"question": "What interests you about talking about mortality and death?"
+					}]
+				},
+				"meta_category": {
+					"id": 562,
+					"shortname": "education",
+					"name": "Learning",
+					"sort_name": "Learning",
+					"photo": {
+						"id": 450131931,
+						"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/9/b/highres_450131931.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/9/b/600_450131931.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/9/b/thumb_450131931.jpeg",
+						"type": "event",
+						"base_url": "https://secure.meetupstatic.com"
+					},
+					"category_ids": [6]
+				}
+			}
+		}]
+	}, {
+		"type": "collection",
+		"title": "New Near You",
+		"items": [{
+			"type": "group",
+			"group": {
+				"score": 0.39616212248802185,
+				"id": 29983878,
+				"name": "Meetup Blockchain San Miguel de Allende",
+				"status": "active",
+				"link": "https://www.meetup.com/Meetup-Blockchain-San-Miguel-de-Allende/",
+				"urlname": "Meetup-Blockchain-San-Miguel-de-Allende",
+				"created": 1538157304000,
+				"city": "San Miguel de Allende",
+				"untranslated_city": "San Miguel de Allende",
+				"country": "MX",
+				"localized_country_name": "Mexico",
+				"localized_location": "San Miguel de Allende, Mexico",
+				"state": "",
+				"join_mode": "open",
+				"visibility": "public",
+				"lat": 20.92,
+				"lon": -100.76,
+				"members": 14,
+				"organizer": {
+					"id": 260500265,
+					"name": "Carlos Vazquez",
+					"bio": "",
+					"photo": {
+						"id": 281148030,
+						"highres_link": "https://secure.meetupstatic.com/photos/member/b/b/9/e/highres_281148030.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/member/b/b/9/e/member_281148030.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/member/b/b/9/e/thumb_281148030.jpeg",
+						"type": "member",
+						"base_url": "https://secure.meetupstatic.com"
+					}
+				},
+				"who": "Miembros",
+				"photo_gradient": {
+					"id": 1,
+					"light_color": "ff7900",
+					"dark_color": "7700c8",
+					"composite_color": "3C0064"
+				},
+				"timezone": "America/Mexico_City",
+				"next_event": {
+					"id": "mmwbhqyxpbrb",
+					"name": "Reunion Blockchain San Miguel de Allende",
+					"yes_rsvp_count": 4,
+					"time": 1542153600000,
+					"utc_offset": -21600000
+				},
+				"category": {
+					"id": 34,
+					"name": "Tech",
+					"shortname": "tech",
+					"sort_name": "Tech"
+				},
+				"self": {
+					"status": "none"
+				},
+				"short_link": "http://meetu.ps/c/45dJ2/tR3rl/a",
+				"join_info": {
+					"questions_req": false,
+					"photo_req": false
+				},
+				"meta_category": {
+					"id": 292,
+					"shortname": "tech",
+					"name": "Tech",
+					"sort_name": "Tech",
+					"photo": {
+						"id": 450131949,
+						"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+						"type": "event",
+						"base_url": "https://secure.meetupstatic.com"
+					},
+					"category_ids": [34]
+				}
+			}
+		}, {
+			"type": "group",
+			"group": {
+				"score": 0.10386889427900314,
+				"id": 30177795,
+				"name": "Say What?! Celaya English Conversation Meetup",
+				"status": "active",
+				"link": "https://www.meetup.com/Say-What-Celaya-English-Conversation-Meetup/",
+				"urlname": "Say-What-Celaya-English-Conversation-Meetup",
+				"created": 1539134876000,
+				"city": "Celaya",
+				"untranslated_city": "Celaya",
+				"country": "MX",
+				"localized_country_name": "Mexico",
+				"localized_location": "Celaya, Mexico",
+				"state": "",
+				"join_mode": "open",
+				"visibility": "public",
+				"lat": 20.52,
+				"lon": -100.82,
+				"members": 6,
+				"organizer": {
+					"id": 202116834,
+					"name": "Cara Schroeder",
+					"bio": "",
+					"photo": {
+						"id": 281403228,
+						"highres_link": "https://secure.meetupstatic.com/photos/member/c/9/c/highres_281403228.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/member/c/9/c/member_281403228.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/member/c/9/c/thumb_281403228.jpeg",
+						"type": "member",
+						"base_url": "https://secure.meetupstatic.com"
+					}
+				},
+				"who": "Members",
+				"photo_gradient": {
+					"id": 5,
+					"light_color": "36c200",
+					"dark_color": "002fff",
+					"composite_color": "083280"
+				},
+				"timezone": "America/Mexico_City",
+				"next_event": {
+					"id": "jgxkjqyxnbwb",
+					"name": "Say What?! Celaya English Conversation Meetup",
+					"yes_rsvp_count": 5,
+					"time": 1539817200000,
+					"utc_offset": -18000000
+				},
+				"category": {
+					"id": 16,
+					"name": "Language & Ethnic Identity",
+					"shortname": "language",
+					"sort_name": "Language & Ethnic Identity"
+				},
+				"self": {
+					"status": "none"
+				},
+				"short_link": "http://meetu.ps/c/46Cqc/tR3rl/a",
+				"join_info": {
+					"questions_req": false,
+					"photo_req": false
+				},
+				"meta_category": {
+					"id": 212,
+					"shortname": "language",
+					"name": "Language & Culture",
+					"sort_name": "Language & Culture",
+					"photo": {
+						"id": 450131939,
+						"highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/highres_450131939.jpeg",
+						"photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/600_450131939.jpeg",
+						"thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/3/thumb_450131939.jpeg",
+						"type": "event",
+						"base_url": "https://secure.meetupstatic.com"
+					},
+					"category_ids": [16]
+				}
+			}
+		}]
+	}]
+}
